@@ -6,6 +6,7 @@
         "orcid",
         "sublicensable",
         "waivable",
-        "xlink"
+        "xlink",
+        "gitdir"
     ]
 }
