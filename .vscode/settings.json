@@ -7,6 +7,8 @@
         "sublicensable",
         "waivable",
         "xlink",
-        "gitdir"
+        "gitdir",
+        "mrpack",
+        "modrinth"
     ]
 }
