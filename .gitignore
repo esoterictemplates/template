@@ -1,7 +1,10 @@
 # Lock files
 ~$*
-.~lock.*#
 *.lock
+
+## LibreOffice and OpenOffice Temporary Files
+.~lock.*#
+*.~lock.*
 
 # Node.js packages and information
 node_modules
@@ -26,3 +29,23 @@ dist
 *.jar
 *.class
 *.mrpack
+
+# Microsoft Office (ZIP-based formats)
+*.docx
+*.dotx
+*.xlsx
+*.xlsm
+*.xltx
+*.xlsb
+*.pptx
+*.ppsx
+*.potx
+
+# OpenDocument Formats (ZIP-based)
+*.odt
+*.ods
+*.odp
+*.odg
+*.odf
+*.odm
+*.ott
