@@ -6,6 +6,4 @@ This file is used to track ideas and planned features for this project. Implemen
 
 ## Considered
 
-- Use `assets` instead of `.assets`.
-
 ## Won't Implement
