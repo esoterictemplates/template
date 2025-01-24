@@ -29,6 +29,7 @@ dist
 *.jar
 *.class
 *.mrpack
+*.mcworld
 
 # Microsoft Office (ZIP-based formats)
 *.docx
