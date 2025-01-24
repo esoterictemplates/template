@@ -14,6 +14,21 @@
 
 ## Log
 
+### 2.2.0
+
+#### Additions
+
+- [FUNDING.yml](./.github/FUNDING.yml).
+- [Issue templates](./.github/ISSUE_TEMPLATE/).
+- Added `.mrpack` files to [.gitignore](./.gitignore).
+- Added `.mcworld` files to [.gitignore](./.gitignore).
+- Added office file extensions to [.gitignore](./.gitignore).
+- [SECURITY.md](./SECURITY.md).
+
+#### Changes
+
+- Renamed `.assets` to [assets](./assets/). (Why was it `.assets` in the first place?)
+
 ### 2.1.0
 
 #### Additions
