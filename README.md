@@ -33,6 +33,7 @@ The following serves as a checklist - a list of tasks to complete when creating 
 - [ ] Update the [repository description](./README_TEMPLATE.md#project-name) in [README_TEMPLATE.md](./README_TEMPLATE.md).
 - [ ] Update the [link(s)](./README_TEMPLATE.md#license) of the badge(s) at the top of [README_TEMPLATE.md](./README_TEMPLATE.md).
 - [ ] Fill in the information under the [license](./README_TEMPLATE.md#license) heading in [README_TEMPLATE.md](./README_TEMPLATE.md).
+- [ ] Update the instructions in [SECURITY.md](./SECURITY.md).
 - [ ] Fill in the [contact details](./CODE_OF_CONDUCT.md#enforcement) in the [code of conduct](./CODE_OF_CONDUCT.md) file.
 - [ ] Clear the [changelog](./CHANGELOG.md) file.
 - [ ] Clear the [features](./docs/FEATURES.md) file.
