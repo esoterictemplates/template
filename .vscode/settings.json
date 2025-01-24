@@ -6,12 +6,14 @@
         "esotericenderman",
         "gitdir",
         "github",
+        "mcworld",
         "modrinth",
         "mrpack",
         "orcid",
         "patreon",
         "sublicensable",
         "waivable",
-        "xlink"
+        "xlink",
+        "xlsb"
     ]
 }
