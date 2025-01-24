@@ -4,6 +4,8 @@ This file is used to keep track of issues with the project.
 
 ## Will Fix
 
+- [FEATURES.md](./docs/FEATURES.md) is outdated.
+
 ## Won't Fix
 
 ## Fixed
