@@ -30,8 +30,8 @@ If applicable, add screenshots or videos to help explain your problem.
 
 ## Versions
 
-- Project version:
-- OS & version:
+- Project version: 
+- OS & version: 
 
 ## Additional Context
 
