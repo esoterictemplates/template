@@ -4,6 +4,8 @@ This file is used to track ideas and planned features for this project. Implemen
 
 ## Will Implement
 
+- Add [CONTRIBUTING.md](./CONTRIBUTING.md).
+
 ## Considered
 
 ## Won't Implement
