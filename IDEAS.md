@@ -22,5 +22,6 @@ This file is used to track ideas and planned features for this project. Implemen
 - [CONTRIBUTORS.md](./CONTRIBUTORS.md)?
 - [.github/ISSUE_TEMPLATE/config.yml](.github/ISSUE_TEMPLATE/config.yml)? (https://github.com/danpoynor/special-github-files?tab=readme-ov-file#page_facing_up-githubissue_templatebug_reportmd)
 - Shorten copyright notice?
+- Add custom donation link?
 
 ## Won't Implement
