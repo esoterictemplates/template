@@ -17,7 +17,7 @@
 *.mcworld # Minecraft Bedrock edition worlds
 *.mrpack # Minecraft Modrinth modpacks
 
-## Microsoft Office (ZIP-based)
+## Microsoft Office file formats (ZIP-based)
 *.docx
 *.dotx
 *.xlsx
@@ -28,7 +28,7 @@
 *.ppsx
 *.potx
 
-## OpenDocument formats (ZIP-based)
+## OpenDocument file formats (ZIP-based)
 *.odt
 *.ods
 *.odp
