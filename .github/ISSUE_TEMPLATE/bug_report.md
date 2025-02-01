@@ -31,7 +31,7 @@ If applicable, add screenshots or videos to help explain your problem.
 ## Versions
 
 - Project version: 
-- OS & version: 
+- Operating system & version: 
 
 ## Additional Context
 
