@@ -6,30 +6,19 @@
 .~lock.*#
 *.~lock.*
 
-# Node.js packages and information
-node_modules
+# Node.js package information
 package-lock.json
 
-# Common compiled files
-dist
-
-# Archive/binary files
+# Archives
 *.zip
 *.tar
 *.tar.gz
 *.tgz
 *.gz
-*.iso
 *.7z
 *.rar
-*.bin
-*.exe
-*.apk
-*.msi
-*.jar
-*.class
-*.mrpack
-*.mcworld
+*.mcworld # Minecraft Bedrock edition worlds
+*.mrpack # Minecraft Modrinth modpacks
 
 ## Microsoft Office (ZIP-based)
 *.docx
@@ -50,3 +39,28 @@ dist
 *.odf
 *.odm
 *.ott
+
+# Installer files
+*.iso
+
+## Windows installer files
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+# Executables
+*.bin
+*.exe
+*.apk
+
+## Common compiled files
+dist
+
+## Java executables and compiled files
+*.jar
+*.class
+
+## Libraries
+node_modules # Node.js packages
