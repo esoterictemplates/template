@@ -6,9 +6,6 @@
 .~lock.*#
 *.~lock.*
 
-# Node.js package information
-package-lock.json
-
 # Archives
 *.zip
 *.tar
@@ -64,3 +61,6 @@ dist
 
 ## Libraries
 node_modules # Node.js packages
+
+# Node.js package information
+package-lock.json
