@@ -62,5 +62,9 @@ dist
 ## Libraries
 node_modules # Node.js packages
 
+## Gradle Wrapper
+gradlew
+gradlew.bat
+
 # Node.js package information
 package-lock.json
