@@ -28,7 +28,7 @@
 *.ppsx
 *.potx
 
-## OpenDocument Formats (ZIP-based)
+## OpenDocument formats (ZIP-based)
 *.odt
 *.ods
 *.odp
