@@ -31,7 +31,7 @@ dist
 *.mrpack
 *.mcworld
 
-# Microsoft Office (ZIP-based formats)
+## Microsoft Office (ZIP-based)
 *.docx
 *.dotx
 *.xlsx
@@ -42,7 +42,7 @@ dist
 *.ppsx
 *.potx
 
-# OpenDocument Formats (ZIP-based)
+## OpenDocument Formats (ZIP-based)
 *.odt
 *.ods
 *.odp
