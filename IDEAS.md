@@ -24,5 +24,6 @@ This file is used to track ideas and planned features for this project. Implemen
 - Shorten copyright notice?
 - Add custom donation link?
 - Shorten headings in [README.md](./README.md) and put a lot of the links under one heading instead.
+- Add an [editorconfig file](./.editorconfig)?
 
 ## Won't Implement
