@@ -68,3 +68,8 @@ gradlew.bat
 
 # Node.js package information
 package-lock.json
+
+# Logs
+
+## Kotlin compiler output
+.kotlin/sessions/kotlin-compiler-[0-9]*.salive
