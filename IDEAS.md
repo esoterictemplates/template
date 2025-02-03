@@ -27,5 +27,11 @@ This file is used to track ideas and planned features for this project. Implemen
 - Add an [editorconfig file](./.editorconfig)?
 - Move more Markdown files to the [docs](./docs) folder because the root is already quite full.
 - Add list of example usages of this template.
+- Not technically an idea for this repository, but I should create the following templates:
+  - Minecraft resource pack template.
+  - Minecraft datapack template.
+  - Minecraft mod template.
+  - Godot project template.
+  - Unity project template.
 
 ## Won't Implement
