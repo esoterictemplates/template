@@ -26,5 +26,6 @@ This file is used to track ideas and planned features for this project. Implemen
 - Shorten headings in [README.md](./README.md) and put a lot of the links under one heading instead.
 - Add an [editorconfig file](./.editorconfig)?
 - Move more Markdown files to the [docs](./docs) folder because the root is already quite full.
+- Add list of example usages of this template.
 
 ## Won't Implement
