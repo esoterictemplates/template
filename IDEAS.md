@@ -25,5 +25,6 @@ This file is used to track ideas and planned features for this project. Implemen
 - Add custom donation link?
 - Shorten headings in [README.md](./README.md) and put a lot of the links under one heading instead.
 - Add an [editorconfig file](./.editorconfig)?
+- Move more Markdown files to the [docs](./docs) folder because the root is already quite full.
 
 ## Won't Implement
