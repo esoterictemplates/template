@@ -21,7 +21,6 @@ This file is used to track ideas and planned features for this project. Implemen
 - [FAQ.md file](./FAQ.md)?
 - [CONTRIBUTORS.md](./CONTRIBUTORS.md)?
 - [.github/ISSUE_TEMPLATE/config.yml](.github/ISSUE_TEMPLATE/config.yml)? (https://github.com/danpoynor/special-github-files?tab=readme-ov-file#page_facing_up-githubissue_templatebug_reportmd)
-- Shorten copyright notice?
 - Add custom donation link?
 - Shorten headings in [README.md](./README.md) and put a lot of the links under one heading instead.
 - Add an [editorconfig file](./.editorconfig)?
