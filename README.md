@@ -70,7 +70,7 @@ See [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) for the code of conduct.
 
 ## License
 
-[Template Repository](./) &copy; 2024-2025 [Esoteric Enderman](https://enderman.dev)
+[Template Repository][root] &copy; 2024-2025 [Esoteric Enderman][website]
 
 This template is free software: you can redistribute it and/or modify it under the terms of the [GNU General Public License](./LICENSE) as published by the [Free Software Foundation](https://www.fsf.org/), either [version 3](./LICENSE) of the License, or (at your option) any later version.
 
@@ -91,3 +91,7 @@ template templates template-project template-repository template-generic-repo
 
 [status-badge]: ./assets/images/badges/status/maintained.svg
 [repository-size-badge]: https://img.shields.io/github/repo-size/esoterictemplates/template-repository?style=for-the-badge&logo=git&label=Repository%20size
+
+<!-- Links -->
+
+[website]: https://enderman.dev
