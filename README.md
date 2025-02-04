@@ -1,6 +1,6 @@
 # Template Repository
 
-[![Project Status: Maintained](./assets/images/badges/status/maintained.svg)](./) [![Repository Size](https://img.shields.io/github/repo-size/esoterictemplates/template-repository?style=for-the-badge&logo=git&label=Repository%20size)](./)
+[![Project Status: Maintained][status-badge]][root] [![Repository Size][repository-size-badge]][root]
 
 This repository serves as a general-purpose template for generating new projects.
 
@@ -81,3 +81,10 @@ You should have received a copy of the [GNU General Public License](./LICENSE) a
 ## Topics
 
 template templates template-project template-repository template-generic-repo
+
+[root]: ./
+
+<!-- Badges -->
+
+[status-badge]: ./assets/images/badges/status/maintained.svg
+[repository-size-badge]: https://img.shields.io/github/repo-size/esoterictemplates/template-repository?style=for-the-badge&logo=git&label=Repository%20size
