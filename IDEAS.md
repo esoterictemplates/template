@@ -34,5 +34,6 @@ This file is used to track ideas and planned features for this project. Implemen
   - Godot project template.
   - Unity project template.
 - Remove year from copyright notice as I would have to maintain this?
+- Rename this to just "Template" for simplicity and possible consistency.
 
 ## Won't Implement
