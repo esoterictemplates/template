@@ -6,6 +6,7 @@ This file is used to track ideas and planned features for this project. Implemen
 
 - Add [CONTRIBUTING.md](./CONTRIBUTING.md).
 - Add [SUPPORT.md](./SUPPORT.md).
+- Update [.idea folder](./.idea).
 
 ## Considered
 
