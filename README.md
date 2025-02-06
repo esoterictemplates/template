@@ -1,4 +1,4 @@
-# Template Repository
+# Template
 
 [![Project Status: Maintained][status-badge]][root] [![Repository Size][repository-size-badge]][root]
 
