@@ -19,4 +19,4 @@ jobs:
         uses: DavidAnson/markdownlint-cli2-action@v19.1.0
         with:
           globs: |
-            !.git
+            !./.git/*
