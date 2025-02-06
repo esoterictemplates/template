@@ -13,6 +13,7 @@ jobs:
       - name: Install Ruby and gems
         uses: ruby/setup-ruby@v1.218.0
         with:
+          ruby-version: "3.2"
           bundler-cache: true
       - name: Install Markdown Lint Tool
         run: gem install mdl
