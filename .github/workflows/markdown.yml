@@ -17,5 +17,3 @@ jobs:
         run: ls -a
       - name: Lint Markdown
         uses: DavidAnson/markdownlint-cli2-action@v19.1.0
-        with:
-          globs: '!./.git/**'
