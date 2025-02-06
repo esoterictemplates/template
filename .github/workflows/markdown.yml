@@ -13,6 +13,8 @@ jobs:
     steps:
       - name: Checkout project
         uses: actions/checkout@v4
+      - name: List stuff
+        run: ls -a
       - name: Lint Markdown
         uses: DavidAnson/markdownlint-cli2-action@v19.1.0
         with:
