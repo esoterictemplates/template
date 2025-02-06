@@ -1,6 +1,6 @@
 # Project Name
 
-<sup>Generated from [Template Repository](https://github.com/esoterictemplates/template-repository) [2.2.0](https://github.com/esoterictemplates/template-repository/tree/2.2.0)</sup>
+<sup>Generated from [Template Repository](https://github.com/esoterictemplates/template) [2.2.0](https://github.com/esoterictemplates/template/tree/2.2.0)</sup>
 
 [![Project Status: Unfinished](./assets/images/badges/status/unfinished.svg)](./) [![Repository Size](https://img.shields.io/github/repo-size/author/project?style=for-the-badge&logo=git&label=Repository%20size)](./)
 
@@ -58,7 +58,7 @@ You should have received a copy of the [GNU General Public License](./LICENSE) a
 
 - [Template Repository][template] Copyright (C) 2024-2025 [Esoteric Enderman][template-author] licensed under [GPL-3.0][gpl-3.0].
 
-[template]: https://github.com/esoterictemplates/template-repository
+[template]: https://github.com/esoterictemplates/template
 [template-author]: https://enderman.dev
 
 [gpl-3.0]: ./LICENSE
