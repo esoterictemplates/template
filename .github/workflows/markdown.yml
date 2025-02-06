@@ -18,4 +18,4 @@ jobs:
       - name: Install Markdown Lint Tool
         run: gem install mdl
       - name: Lint
-        run: mdl -r ~MD013 .
+        run: mdl -r ~MD013 --git-recurse .
