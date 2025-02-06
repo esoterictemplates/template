@@ -7,15 +7,11 @@ on:
 jobs:
   lint:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [22.x]
     steps:
       - name: Checkout project
         uses: actions/checkout@v4
-      - name: Install Ruby
-        uses: ruby/setup-ruby@v1.218.0
-        with:
-          ruby-version: "3.2"
-          bundler-cache: true
-      - name: Install Markdown Lint Tool
-        run: gem install mdl
-      - name: Lint
-        run: mdl -r ~MD013 --git-recurse .
+      - name: Lint Markdown
+        uses: DavidAnson/markdownlint-cli2-action@v19.1.0
