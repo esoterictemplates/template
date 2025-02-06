@@ -64,7 +64,7 @@
 - Generalised project name and use cases in [README.md](./README.md).
 - Changed the logo of the "repository size" badge from GitHub to Git.
 - Added back the usage of periods to end changes in [CHANGELOG.md](./CHANGELOG.md).
-- Moved instructions on updating the project from [README.md](./README.md) to [README_TEMPLATE.md](./README_TEMPLATE.md). 
+- Moved instructions on updating the project from [README.md](./README.md) to [README_TEMPLATE.md](./README_TEMPLATE.md).
 - Updated [copyright statement](./README.md#license).
 - Indicated in [README.md](./README.md) that issues, features, and ideas are also tracked with regards to the template.
 - Moved `FEATURES.md` to the newly created `docs` folder for better organisation.
