@@ -17,5 +17,5 @@ jobs:
           bundler-cache: true
       - name: Install Markdown Lint Tool
         run: gem install mdl
-      - name: Lint Markdown
+      - name: Lint
         run: mdl ./
