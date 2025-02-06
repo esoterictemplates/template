@@ -1,0 +1,20 @@
+name: markdown
+
+on:
+  push:
+    branches: [ "**" ]
+  pull_request:
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install Ruby and gems
+        uses: ruby/setup-ruby@v1.218.0
+        with:
+          bundler-cache: true
+      - name: Install Markdown Lint Tool
+        run: gem install mdl
+      - name: Lint Markdown
+        run: mdl ./
