@@ -46,37 +46,37 @@ The following serves as a checklist - a list of tasks to complete when creating 
 
 ## Features
 
-See [FEATURES.md](./docs/FEATURES.md) for a list of features of this template.
+See [FEATURES.md][features] for a list of features of this template.
 
 ## Changelog
 
-See [CHANGELOG.md](./CHANGELOG.md) for a list of changes throughout different versions.
+See [CHANGELOG.md][changelog] for a list of changes throughout different versions.
 
 ## Ideas
 
-See [IDEAS.md](./IDEAS.md) for ideas and planned features for this template.
+See [IDEAS.md][ideas] for ideas and planned features for this template.
 
 ## Issues
 
-See [ISSUES.md](./ISSUES.md) for a list of known bugs/issues with this template.
+See [ISSUES.md][issues] for a list of known bugs/issues with this template.
 
 ## Citation
 
-See [CITATION.cff](./CITATION.cff) for instructions on how to cite this template.
+See [CITATION.cff][citation] for instructions on how to cite this template.
 
 ## Code of Conduct
 
-See [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) for the code of conduct.
+See [CODE_OF_CONDUCT.md][conduct] for the code of conduct.
 
 ## License
 
 [Template Repository][root] &copy; 2024-2025 [Esoteric Enderman][website]
 
-This template is free software: you can redistribute it and/or modify it under the terms of the [GNU General Public License](./LICENSE) as published by the [Free Software Foundation](https://www.fsf.org/), either [version 3](./LICENSE) of the License, or (at your option) any later version.
+This template is free software: you can redistribute it and/or modify it under the terms of the [GNU General Public License][license] as published by the [Free Software Foundation][free-software-foundation], either [version 3][license] of the License, or (at your option) any later version.
 
-This template is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the [GNU General Public License](./LICENSE) for more details.
+This template is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the [GNU General Public License][license] for more details.
 
-You should have received a copy of the [GNU General Public License](./LICENSE) along with this template. If not, see <[gnu.org/licenses](https://www.gnu.org/licenses/)>.
+You should have received a copy of the [GNU General Public License][license] along with this template. If not, see <[gnu.org/licenses][licenses]>.
 
 ## Topics
 
@@ -91,6 +91,22 @@ template templates template-project template-repository template-generic-repo
 [status-badge]: ./assets/images/badges/status/maintained.svg
 [repository-size-badge]: https://img.shields.io/github/repo-size/esoterictemplates/template?style=for-the-badge&logo=git&label=Repository%20size
 
+<!-- Files -->
+
+[license]: ./LICENSE
+
+[features]: ./docs/FEATURES.md
+[changelog]: ./CHANGELOG.md
+[ideas]: ./IDEAS.md
+[issues]: ./ISSUES.md
+
+[citation]: ./CITATION.cff
+
+[conduct]: ./CODE_OF_CONDUCT.md
+
 <!-- Links -->
 
 [website]: https://enderman.dev
+
+[free-software-foundation]: https://www.fsf.org/
+[licenses]: https://www.gnu.org/licenses/
