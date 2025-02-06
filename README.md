@@ -82,7 +82,6 @@ You should have received a copy of the [GNU General Public License](./LICENSE) a
 
 template templates template-project template-repository template-generic-repo
 
-
 <!-- Link aliases -->
 
 [root]: ./
