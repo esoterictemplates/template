@@ -5,6 +5,6 @@
             "description": "Words used in this project.",
             "path": "${workspaceRoot}/configs/words.txt",
             "addWords": true
-        },
+        }
     }
 }
