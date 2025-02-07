@@ -6,5 +6,7 @@ matrix:
   dictionary:
     wordlists:
     - configs/words.txt
+  pipeline:
+  - pyspelling.filters.markdown:
   sources:
   - '**/*.md'
