@@ -3,7 +3,7 @@
 MD013: false
 
 # No repetitive heading content
-# Disable due to how ./CHANGE LOG.md works.
+# Disable due to how ./CHANGELOG.md works.
 MD024:
   siblings_only: true
 
