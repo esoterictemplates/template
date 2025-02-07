@@ -6,6 +6,7 @@ This file is used to track ideas and planned features for this project. Implemen
 
 ### Additions
 
+- Use Markdown link aliases in all Markdown files.
 - [CONTRIBUTING.md](./CONTRIBUTING.md).
 - [SUPPORT.md](./SUPPORT.md).
 
