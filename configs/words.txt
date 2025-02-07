@@ -52,3 +52,7 @@ readme
 reportmd
 templatebug
 yml
+GPL
+IDEs
+IntelliJ
+gitignore
