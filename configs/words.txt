@@ -65,3 +65,7 @@ Gmail
 foundationesoteric
 gmail
 mailto
+Generalised
+organisation
+gpl
+xyz
