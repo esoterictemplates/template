@@ -15,3 +15,5 @@ jobs:
         uses: actions/checkout@v4
       - name: Lint Markdown
         uses: DavidAnson/markdownlint-cli2-action@v19.1.0
+        with:
+          config: configs/.markdownlint.yml
