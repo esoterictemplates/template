@@ -40,3 +40,15 @@ src
 svg
 ul
 www
+GitLab
+Minecraft
+config
+danpoynor
+editorconfig
+githubissue
+linter
+ov
+readme
+reportmd
+templatebug
+yml
