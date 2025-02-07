@@ -139,7 +139,7 @@
 
 #### Changes
 
-- [LICENSE](../LICENSE).
+- [LICENSE](LICENSE).
 
 ### 0.3.0
 

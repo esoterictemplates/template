@@ -93,7 +93,7 @@ template templates template-project template-repository template-generic-repo
 
 <!-- Files -->
 
-[license]: ../LICENSE
+[license]: LICENSE
 
 [features]: FEATURES.md
 [changelog]: CHANGELOG.md
