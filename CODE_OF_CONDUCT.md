@@ -48,7 +48,7 @@ For answers to common questions about this code of conduct, see the [FAQ][faq].
 
 <!-- Emails -->
 
-[contact]: malto:foundationesoteric@gmail.com
+[contact]: mailto:foundationesoteric@gmail.com
 
 <!-- Links -->
 
