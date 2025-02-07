@@ -1,23 +1,10 @@
 {
-    "cSpell.words": [
-        "aspell",
-        "datapack",
-        "Datasource",
-        "Enderman",
-        "esotericenderman",
-        "github",
-        "gradlew",
-        "kotlin",
-        "mcworld",
-        "modpacks",
-        "Modrinth",
-        "mrpack",
-        "msix",
-        "orcid",
-        "patreon",
-        "rojopolis",
-        "salive",
-        "xlink",
-        "xlsb"
-    ]
+    "cSpell.customDictionaries": {
+        "project-words": {
+            "name": "project-words",
+            "path": "${workspaceRoot}/configs/words.txt",
+            "description": "Words used in this project.",
+            "addWords": true
+        },
+    }
 }
