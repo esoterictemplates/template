@@ -10,14 +10,14 @@ Project description.
 
 ### Updating This Project
 
-- Update [CHANGELOG.md](./CHANGELOG.md) if needed.
+- Update [CHANGELOG.md](docs/CHANGELOG.md) if needed.
 - Update [FEATURES.md](./docs/FEATURES.md) if needed.
 - Update [ISSUES.md](./ISSUES.md) if needed.
 - Update [IDEAS.md](./IDEAS.md) if needed.
 
 ### Releasing New Versions
 
-- Update [CHANGELOG.md](./CHANGELOG.md).
+- Update [CHANGELOG.md](docs/CHANGELOG.md).
 - Update [CITATION.cff](./CITATION.cff).
 
 ## Features
@@ -26,7 +26,7 @@ See [FEATURES.md](./docs/FEATURES.md) for a list of features of this project.
 
 ## Changelog
 
-See [CHANGELOG.md](./CHANGELOG.md) for a list of changes throughout different versions.
+See [CHANGELOG.md](docs/CHANGELOG.md) for a list of changes throughout different versions.
 
 ## Ideas
 

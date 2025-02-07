@@ -35,7 +35,7 @@ The following serves as a checklist - a list of tasks to complete when creating 
 - [ ] Fill in the information under the [license](../README_TEMPLATE.md#license) heading in [README_TEMPLATE.md](../README_TEMPLATE.md).
 - [ ] Update the instructions in [SECURITY.md](../SECURITY.md).
 - [ ] Fill in the [contact details](../CODE_OF_CONDUCT.md#enforcement) in the [code of conduct](../CODE_OF_CONDUCT.md) file.
-- [ ] Clear the [changelog](../CHANGELOG.md) file.
+- [ ] Clear the [changelog](CHANGELOG.md) file.
 - [ ] Clear the [features](FEATURES.md) file.
 - [ ] Clear the [issues](../ISSUES.md) file.
 - [ ] Clear the [ideas](../IDEAS.md) file.
@@ -96,7 +96,7 @@ template templates template-project template-repository template-generic-repo
 [license]: ../LICENSE
 
 [features]: FEATURES.md
-[changelog]: ../CHANGELOG.md
+[changelog]: CHANGELOG.md
 [ideas]: ../IDEAS.md
 [issues]: ../ISSUES.md
 
