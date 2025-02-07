@@ -74,7 +74,7 @@ This Code of Conduct is adapted from the [Contributor Covenant][homepage], versi
 
 Community Impact Guidelines were inspired by [Mozilla's code of conduct enforcement ladder][mozilla].
 
-For answers to common questions about this code of conduct, see the FAQ at [contributor-covenant.org/faq][FAQ]. Translations are available at [contributor-covenant.org/translations][translations].
+For answers to common questions about this code of conduct, see the FAQ at [contributor-covenant.org/faq][faq]. Translations are available at [contributor-covenant.org/translations][translations].
 
 <!-- Link aliases -->
 
