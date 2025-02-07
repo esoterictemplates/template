@@ -13,4 +13,4 @@ jobs:
     - name: Check spelling
       uses: rojopolis/spellcheck-github-actions@v0
       with:
-        config_path: ./configs/spellcheck.yml
+        config_path: ./configs/spellcheck.yaml
