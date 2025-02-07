@@ -18,7 +18,6 @@ This file is used to track ideas and planned features for this project. Implemen
 ### Additions
 
 - Pull request template?
-- Markdown linter GitHub action?
 - Markdown linter GitLab CI/CD?
 - [UPGRADING.md](./UPGRADING.md) file?
 - Code owner information?
