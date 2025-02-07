@@ -1,5 +1,5 @@
 # Line length
-# Please just use text wrapping instead of rigourously trying to separate a paragraph onto multiple lines.
+# Please just use text wrapping instead of rigorously trying to separate a paragraph onto multiple lines.
 MD013: false
 
 # No repetitive heading content
