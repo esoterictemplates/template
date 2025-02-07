@@ -2,8 +2,8 @@
     "cSpell.customDictionaries": {
         "project-words": {
             "name": "project-words",
-            "path": "${workspaceRoot}/configs/words.txt",
             "description": "Words used in this project.",
+            "path": "${workspaceRoot}/configs/words.txt",
             "addWords": true
         },
     }
