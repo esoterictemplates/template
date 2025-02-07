@@ -1,10 +1,10 @@
 matrix:
-- name: Markdown
-  aspell:
-    lang: en
-    d: en_US
-  dictionary:
-    wordlists:
-    - configs/words.txt
-  sources:
-  - '**/*.md'
+  - name: Markdown
+    aspell:
+      lang: en
+      d: en_US
+    dictionary:
+      wordlists:
+        - configs/words.txt
+    sources:
+      - '**/*.md'
