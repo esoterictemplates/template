@@ -23,7 +23,7 @@
 - Added `.mrpack` files to [.gitignore](../.gitignore).
 - Added `.mcworld` files to [.gitignore](../.gitignore).
 - Added office file extensions to [.gitignore](../.gitignore).
-- [SECURITY.md](../SECURITY.md).
+- [SECURITY.md](SECURITY.md).
 
 #### Changes
 
@@ -55,16 +55,16 @@
 - Added more instructions to [README.md](README.md) for [updating the project](README.md#updating-this-project) and [releasing new versions](README.md#releasing-new-versions).
 - Added instruction to commit changes to [the checklist](README.md#checklist).
 - Added instruction to delete files if applicable to [the checklist](README.md#checklist).
-- Added links to [README.md](README.md) and [README_TEMPLATE.md](../README_TEMPLATE.md) that leads to [CITATION.cff](../CITATION.cff).
-- Started using [FEATURES.md](./FEATURES.md) and [IDEAS.md](../IDEAS.md) in terms of the actual template repository.
+- Added links to [README.md](README.md) and [README_TEMPLATE.md](README_TEMPLATE.md) that leads to [CITATION.cff](../CITATION.cff).
+- Started using [FEATURES.md](./FEATURES.md) and [IDEAS.md](IDEAS.md) in terms of the actual template repository.
 
 #### Changes
 
-- Separated the [template README.md](../README_TEMPLATE.md) and the [README.md](README.md) of the template repository into two different files.
+- Separated the [template README.md](README_TEMPLATE.md) and the [README.md](README.md) of the template repository into two different files.
 - Generalised project name and use cases in [README.md](README.md).
 - Changed the logo of the "repository size" badge from GitHub to Git.
 - Added back the usage of periods to end changes in [CHANGELOG.md](./CHANGELOG.md).
-- Moved instructions on updating the project from [README.md](README.md) to [README_TEMPLATE.md](../README_TEMPLATE.md).
+- Moved instructions on updating the project from [README.md](README.md) to [README_TEMPLATE.md](README_TEMPLATE.md).
 - Updated [copyright statement](README.md#license).
 - Indicated in [README.md](README.md) that issues, features, and ideas are also tracked with regards to the template.
 - Moved `FEATURES.md` to the newly created `docs` folder for better organisation.
@@ -78,8 +78,8 @@
 #### Additions
 
 - [FEATURES.md](./FEATURES.md).
-- [IDEAS.md](../IDEAS.md).
-- [ISSUES.md](../ISSUES.md).
+- [IDEAS.md](IDEAS.md).
+- [ISSUES.md](ISSUES.md).
 
 #### Changes
 
@@ -151,7 +151,7 @@
 
 #### Additions
 
-- Link in [README.md](README.md) to [CODE_OF_CONDUCT.md](../CODE_OF_CONDUCT.md).
+- Link in [README.md](README.md) to [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
 
 ### 0.2.0
 
@@ -164,4 +164,4 @@
 #### Additions
 
 - [README.md](README.md).
-- [CODE_OF_CONDUCT.md](../CODE_OF_CONDUCT.md).
+- [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).

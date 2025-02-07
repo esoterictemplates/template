@@ -16,4 +16,4 @@ Please [contact us][contact] in order to report the vulnerability in a private a
 
 <!-- Contact -->
 
-[contact]: ./CONTACT.md
+[contact]: CONTACT.md

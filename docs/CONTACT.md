@@ -6,8 +6,8 @@
 
 <!-- Link aliases -->
 
-[discord-logo]: ./assets/images/badges/platforms/discord.svg
-[gmail-logo]: ./assets/images/badges/platforms/gmail.svg
+[discord-logo]: ../assets/images/badges/platforms/discord.svg
+[gmail-logo]: ../assets/images/badges/platforms/gmail.svg
 
 <!-- Contact -->
 
