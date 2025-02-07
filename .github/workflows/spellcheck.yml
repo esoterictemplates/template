@@ -12,4 +12,5 @@ jobs:
       uses: rojopolis/spellcheck-github-actions@v0
       with:
         task_name: Markdown
-        source_files: '**/*.md'
+        source_files: |
+          '**/*.md'
