@@ -64,7 +64,7 @@ dist
 ### Node.js packages
 node_modules
 
-## Gradle Wrapper
+## Gradle wrapper
 gradlew
 gradlew.bat
 
