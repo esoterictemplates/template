@@ -3,5 +3,8 @@ matrix:
   aspell:
     lang: en
     d: en_US
+  dictionary:
+    wordlists:
+    - configs/words.txt
   sources:
   - '**/*.md'
