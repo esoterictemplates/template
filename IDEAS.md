@@ -39,7 +39,7 @@ This file is used to track ideas and planned features for this project. Implemen
 
 - Move credits to a separate file?
 - Move this repository to GitLab and set up a push mirror?
-- Shorten headings in [README.md](./README.md) and put a lot of the links under one heading instead.
+- Shorten headings in [README.md](docs/README.md) and put a lot of the links under one heading instead.
 - Move more Markdown files to the [docs](./docs) folder because the root is already quite full.
 - Rename this to just "Template" for simplicity and possible consistency.
 - Update copyright and credit to use "Esoteric Templates".

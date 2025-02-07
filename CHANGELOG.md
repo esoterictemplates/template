@@ -51,27 +51,27 @@
 
 #### Additions
 
-- A [guide](./README.md#creating-a-new-project-using-this-template) on how to create a new project using this template.
-- Added more instructions to [README.md](./README.md) for [updating the project](./README.md#updating-this-project) and [releasing new versions](./README.md#releasing-new-versions).
-- Added instruction to commit changes to [the checklist](./README.md#checklist).
-- Added instruction to delete files if applicable to [the checklist](./README.md#checklist).
-- Added links to [README.md](./README.md) and [README_TEMPLATE.md](./README_TEMPLATE.md) that leads to [CITATION.cff](./CITATION.cff).
+- A [guide](docs/README.md#creating-a-new-project-using-this-template) on how to create a new project using this template.
+- Added more instructions to [README.md](docs/README.md) for [updating the project](docs/README.md#updating-this-project) and [releasing new versions](docs/README.md#releasing-new-versions).
+- Added instruction to commit changes to [the checklist](docs/README.md#checklist).
+- Added instruction to delete files if applicable to [the checklist](docs/README.md#checklist).
+- Added links to [README.md](docs/README.md) and [README_TEMPLATE.md](./README_TEMPLATE.md) that leads to [CITATION.cff](./CITATION.cff).
 - Started using [FEATURES.md](./FEATURES.md) and [IDEAS.md](./IDEAS.md) in terms of the actual template repository.
 
 #### Changes
 
-- Separated the [template README.md](./README_TEMPLATE.md) and the [README.md](./README.md) of the template repository into two different files.
-- Generalised project name and use cases in [README.md](./README.md).
+- Separated the [template README.md](./README_TEMPLATE.md) and the [README.md](docs/README.md) of the template repository into two different files.
+- Generalised project name and use cases in [README.md](docs/README.md).
 - Changed the logo of the "repository size" badge from GitHub to Git.
 - Added back the usage of periods to end changes in [CHANGELOG.md](./CHANGELOG.md).
-- Moved instructions on updating the project from [README.md](./README.md) to [README_TEMPLATE.md](./README_TEMPLATE.md).
-- Updated [copyright statement](./README.md#license).
-- Indicated in [README.md](./README.md) that issues, features, and ideas are also tracked with regards to the template.
+- Moved instructions on updating the project from [README.md](docs/README.md) to [README_TEMPLATE.md](./README_TEMPLATE.md).
+- Updated [copyright statement](docs/README.md#license).
+- Indicated in [README.md](docs/README.md) that issues, features, and ideas are also tracked with regards to the template.
 - Moved `FEATURES.md` to the newly created `docs` folder for better organisation.
 
 #### Fixes
 
-- Fixed the heading level of the [issues heading](./README.md#issues) in [README.md](./README.md).
+- Fixed the heading level of the [issues heading](docs/README.md#issues) in [README.md](docs/README.md).
 
 ### 1.2.0
 
@@ -89,13 +89,13 @@
 
 #### Fixes
 
-- Fixed some issues in [README.md](./README.md).
+- Fixed some issues in [README.md](docs/README.md).
 
 ### 1.1.0
 
 #### Changes
 
-- [README.md](./README.md).
+- [README.md](docs/README.md).
 
 ### 1.0.3
 
@@ -113,7 +113,7 @@
 
 #### Changes
 
-- [README.md](./README.md) badges.
+- [README.md](docs/README.md) badges.
 
 ### 1.0.0
 
@@ -123,17 +123,17 @@
 
 #### Changes
 
-- [README.md](./README.md).
+- [README.md](docs/README.md).
 
 ### 0.5.0
 
 #### Additions
 
-- [README.md](./README.md) badges.
+- [README.md](docs/README.md) badges.
 
 #### Changes
 
-- [README.md](./README.md).
+- [README.md](docs/README.md).
 
 ### 0.4.0
 
@@ -145,13 +145,13 @@
 
 #### Additions
 
-- [Checklist](./README.md#checklist).
+- [Checklist](docs/README.md#checklist).
 
 ### 0.2.1
 
 #### Additions
 
-- Link in [README.md](./README.md) to [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md).
+- Link in [README.md](docs/README.md) to [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md).
 
 ### 0.2.0
 
@@ -163,5 +163,5 @@
 
 #### Additions
 
-- [README.md](./README.md).
+- [README.md](docs/README.md).
 - [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md).
