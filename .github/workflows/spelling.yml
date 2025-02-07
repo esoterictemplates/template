@@ -3,7 +3,6 @@ on: push
 
 jobs:
   spellcheck:
-    name: Spellcheck
     runs-on: ubuntu-latest
     steps:
     - name: Checkout project
