@@ -8,7 +8,7 @@
 
 ## Reporting a Vulnerability
 
-Please join our [Discord server][discord] and create a ticket in order to report the vulnerability in a private and secure manner. Alternatively, you can email us at [foundationesoteric@gmail.com][email].
+Please [contact us][contact] in order to report the vulnerability in a private and secure manner.
 
 <!-- Link aliases -->
 
@@ -16,5 +16,4 @@ Please join our [Discord server][discord] and create a ticket in order to report
 
 <!-- Contact -->
 
-[discord]: https://esoteric.foundation/discord
-[email]: mailto:foundationesoteric@gmail.com
+[contact]: ./CONTACT.md
