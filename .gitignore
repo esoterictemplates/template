@@ -13,8 +13,10 @@
 *.gz
 *.7z
 *.rar
-*.mcworld # Minecraft Bedrock edition worlds
-*.mrpack # Minecraft Modrinth modpacks
+## Minecraft Bedrock edition worlds
+*.mcworld
+## Minecraft Modrinth modpacks
+*.mrpack
 
 ## Microsoft Office file formats (ZIP-based)
 *.docx
@@ -59,7 +61,8 @@ dist
 *.class
 
 ## Libraries
-node_modules # Node.js packages
+### Node.js packages
+node_modules
 
 ## Gradle Wrapper
 gradlew
