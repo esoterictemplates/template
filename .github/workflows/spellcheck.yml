@@ -10,7 +10,3 @@ jobs:
       uses: actions/checkout@v4
     - name: Check spelling
       uses: rojopolis/spellcheck-github-actions@v0
-      with:
-        task_name: Markdown
-        source_files: |
-          '**/*.md'
