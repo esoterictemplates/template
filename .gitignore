@@ -4,7 +4,6 @@
 
 ## LibreOffice and OpenOffice temporary files
 .~lock.*#
-*.~lock.*
 
 # Archives
 *.zip
