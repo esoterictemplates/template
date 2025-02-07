@@ -1,6 +1,6 @@
 # Ideas
 
-This file is used to track ideas and planned features for this project. Implemented ideas will be moved to [FEATURES.md](./docs/FEATURES.md).
+This file is used to track ideas and planned features for this project. Implemented ideas will be moved to [FEATURES.md][features].
 
 ## Will Implement
 
@@ -50,3 +50,9 @@ This file is used to track ideas and planned features for this project. Implemen
 - Remove year from copyright notice as I would have to maintain this?
 
 ## Won't Implement
+
+<!-- Link aliases -->
+
+<!-- Files -->
+
+[features]: ./docs/FEATURES.md
