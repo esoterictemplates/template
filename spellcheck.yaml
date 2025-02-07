@@ -2,7 +2,9 @@ matrix:
 - name: Markdown
   aspell:
     lang: en
-    d: en_US, en_UK
+    d:
+      - en_US
+      - en_UK
   dictionary:
     wordlists:
     - configs/words.txt
