@@ -20,29 +20,14 @@ Project description.
 - Update [CHANGELOG.md][changelog].
 - Update [CITATION.cff][citation].
 
-## Features
+## Documentation
 
-See [FEATURES.md][features] for a list of features of this project.
-
-## Changelog
-
-See [CHANGELOG.md][changelog] for a list of changes throughout different versions.
-
-## Ideas
-
-See [IDEAS.md][ideas] for ideas and planned features for this project.
-
-## Issues
-
-See [ISSUES.md][issues] for a list of known bugs/issues with this project.
-
-## Citation
-
-See [CITATION.cff][citation] for instructions on how to cite this project.
-
-## Code of Conduct
-
-See [CODE_OF_CONDUCT.md][conduct] for the code of conduct.
+- Features: [FEATURES.md][features].
+- Changelog: [CHANGELOG.md][changelog].
+- Ideas: [IDEAS.md][ideas].
+- Issues: [ISSUES.md][issues].
+- Citation: [CITATION.cff][citation].
+- Code of Conduct: [CODE_OF_CONDUCT.md][conduct].
 
 ## License
 
