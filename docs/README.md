@@ -33,7 +33,6 @@ The following serves as a checklist - a list of tasks to complete when creating 
 - [ ] Update the [repository description][project-name] in [README_TEMPLATE.md][info-template].
 - [ ] Update the [link(s)][project-name] of the badge(s) at the top of [README_TEMPLATE.md][info-template].
 - [ ] Fill in the information under the [license][license-heading] heading in [README_TEMPLATE.md][info-template].
-- [ ] Update the instructions in [SECURITY.md][security].
 - [ ] Update [contact details][contact].
 - [ ] Clear the [changelog][changelog] file.
 - [ ] Clear the [issues][issues] file.
