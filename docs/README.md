@@ -30,6 +30,7 @@ This repository serves as a general-purpose template for generating new projects
 The following serves as a checklist - a list of tasks to complete when creating a new project using this template.
 
 - [ ] Update the [repository name][project-name] in [README_TEMPLATE.md][info-template].
+- [ ] Update the [project name][idea-name] for JetBrains editors.
 - [ ] Update the [repository description][project-name] in [README_TEMPLATE.md][info-template].
 - [ ] Update the [link(s)][project-name] of the badge(s) at the top of [README_TEMPLATE.md][info-template].
 - [ ] Fill in the information under the [license][license-heading] heading in [README_TEMPLATE.md][info-template].
@@ -86,6 +87,10 @@ template templates template-project template-repository template-generic-repo
 [citation]: ../CITATION.cff
 
 [conduct]: CODE_OF_CONDUCT.md
+
+<!-- IDE files -->
+
+[idea-name]: ../.idea/.name
 
 <!-- Links -->
 
