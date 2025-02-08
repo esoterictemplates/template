@@ -39,7 +39,7 @@ The following serves as a checklist - a list of tasks to complete when creating 
 - [ ] Clear the [features](FEATURES.md) file.
 - [ ] Clear the [issues](ISSUES.md) file.
 - [ ] Clear the [ideas](IDEAS.md) file.
-- [ ] Update the information in the [citation](../CITATION.cff) file.
+- [ ] Update the information in the [citation](CITATION.cff) file.
 - [ ] If you are using a different system to track features, ideas, and/or issues, delete those files respectively.
 - [ ] Delete [this file](./README.md) and rename [README_TEMPLATE.md](README_TEMPLATE.md) to `README.md`.
 - [ ] Commit your changes to version control if applicable.
@@ -100,7 +100,7 @@ template templates template-project template-repository template-generic-repo
 [ideas]: IDEAS.md
 [issues]: ISSUES.md
 
-[citation]: ../CITATION.cff
+[citation]: CITATION.cff
 
 [conduct]: CODE_OF_CONDUCT.md
 
