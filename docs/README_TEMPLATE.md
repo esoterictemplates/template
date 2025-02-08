@@ -1,6 +1,6 @@
 # Project Name
 
-<sup>Generated from [Template Repository][template] [2.2.0][template-version]</sup>
+<sup>Generated from [Template Repository][template] [3.0.0][template-version]</sup>
 
 [![Project Status: Unfinished][status]][root] [![Repository Size][size]][root]
 
@@ -58,7 +58,7 @@ You should have received a copy of the [GNU General Public License][gpl-3.0] alo
 <!-- Template -->
 
 [template]: https://github.com/esoterictemplates/template
-[template-version]: https://github.com/esoterictemplates/template/tree/2.2.0
+[template-version]: https://github.com/esoterictemplates/template/tree/3.0.0
 [template-author]: https://enderman.dev
 
 <!-- Websites -->
