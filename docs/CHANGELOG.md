@@ -18,16 +18,16 @@
 
 #### Additions
 
-- [FUNDING.yml](./.github/FUNDING.yml).
-- [Issue templates](./.github/ISSUE_TEMPLATE/).
-- Added `.mrpack` files to [.gitignore](../.gitignore).
-- Added `.mcworld` files to [.gitignore](../.gitignore).
-- Added office file extensions to [.gitignore](../.gitignore).
-- [SECURITY.md](SECURITY.md).
+- [FUNDING.yml][funding].
+- [Issue templates][issue-templates].
+- Added `.mrpack` files to [.gitignore][ignore].
+- Added `.mcworld` files to [.gitignore][ignore].
+- Added office file extensions to [.gitignore][ignore].
+- [SECURITY.md][security].
 
 #### Changes
 
-- Renamed `.assets` to [assets](./assets/). (Why was it `.assets` in the first place?)
+- Renamed `.assets` to [assets][assets]. (Why was it `.assets` in the first place?)
 
 ### 2.1.0
 
@@ -39,129 +39,170 @@
 
 #### Fixes
 
-- Fixed [CITATION.cff](../CITATION.cff) being out-of-date.
+- Fixed [CITATION.cff][citation] being out-of-date.
 
 ### 2.0.1
 
 #### Additions
 
-- Added [IntelliJ IDEA .gitignore](../.idea/.gitignore).
+- Added [IntelliJ IDEA .gitignore][idea-ignore].
 
 ### 2.0.0
 
 #### Additions
 
-- A [guide](README.md#creating-a-new-project-using-this-template) on how to create a new project using this template.
-- Added more instructions to [README.md](README.md) for [updating the project](README.md#updating-this-project) and [releasing new versions](README.md#releasing-new-versions).
-- Added instruction to commit changes to [the checklist](README.md#checklist).
-- Added instruction to delete files if applicable to [the checklist](README.md#checklist).
-- Added links to [README.md](README.md) and [README_TEMPLATE.md](README_TEMPLATE.md) that leads to [CITATION.cff](../CITATION.cff).
-- Started using [FEATURES.md](./FEATURES.md) and [IDEAS.md](IDEAS.md) in terms of the actual template repository.
+- A [guide][guide] on how to create a new project using this template.
+- Added more instructions to [README.md][info] for [updating the project][updating] and [releasing new versions][releasing-new-versions].
+- Added instruction to commit changes to [the checklist][checklist].
+- Added instruction to delete files if applicable to [the checklist][checklist].
+- Added links to [README.md][info] and [README_TEMPLATE.md][info-template] that leads to [CITATION.cff][citation].
+- Started using [FEATURES.md][features] and [IDEAS.md][ideas] in terms of the actual template repository.
 
 #### Changes
 
-- Separated the [template README.md](README_TEMPLATE.md) and the [README.md](README.md) of the template repository into two different files.
-- Generalised project name and use cases in [README.md](README.md).
+- Separated the [template README.md][info-template] and the [README.md][info] of the template repository into two different files.
+- Generalised project name and use cases in [README.md][info].
 - Changed the logo of the "repository size" badge from GitHub to Git.
-- Added back the usage of periods to end changes in [CHANGELOG.md](./CHANGELOG.md).
-- Moved instructions on updating the project from [README.md](README.md) to [README_TEMPLATE.md](README_TEMPLATE.md).
-- Updated [copyright statement](README.md#license).
-- Indicated in [README.md](README.md) that issues, features, and ideas are also tracked with regards to the template.
+- Added back the usage of periods to end changes in [CHANGELOG.md][changelog].
+- Moved instructions on updating the project from [README.md][info] to [README_TEMPLATE.md][info-template].
+- Updated [copyright statement][license-heading].
+- Indicated in [README.md][info] that issues, features, and ideas are also tracked with regards to the template.
 - Moved `FEATURES.md` to the newly created `docs` folder for better organisation.
 
 #### Fixes
 
-- Fixed the heading level of the [issues heading](README.md#issues) in [README.md](README.md).
+- Fixed the heading level of the [issues heading][issues-heading] in [README.md][info].
 
 ### 1.2.0
 
 #### Additions
 
-- [FEATURES.md](./FEATURES.md).
-- [IDEAS.md](IDEAS.md).
-- [ISSUES.md](ISSUES.md).
+- [FEATURES.md][features].
+- [IDEAS.md][ideas].
+- [ISSUES.md][issues].
 
 #### Changes
 
-- [CHANGELOG](./CHANGELOG.md) format.
+- [CHANGELOG][changelog] format.
 
 ### 1.1.1
 
 #### Fixes
 
-- Fixed some issues in [README.md](README.md).
+- Fixed some issues in [README.md][info].
 
 ### 1.1.0
 
 #### Changes
 
-- [README.md](README.md).
+- [README.md][info].
 
 ### 1.0.3
 
 #### Changes
 
-- Added `dist` to [.gitignore](../.gitignore).
+- Added `dist` to [.gitignore][ignore].
 
 ### 1.0.2
 
 #### Additions
 
-- [.gitignore](../.gitignore).
+- [.gitignore][ignore].
 
 ### 1.0.1
 
 #### Changes
 
-- [README.md](README.md) badges.
+- [README.md][info] badges.
 
 ### 1.0.0
 
 #### Additions
 
-- [CITATION.cff](../CITATION.cff).
+- [CITATION.cff][citation].
 
 #### Changes
 
-- [README.md](README.md).
+- [README.md][info].
 
 ### 0.5.0
 
 #### Additions
 
-- [README.md](README.md) badges.
+- [README.md][info] badges.
 
 #### Changes
 
-- [README.md](README.md).
+- [README.md][info].
 
 ### 0.4.0
 
 #### Changes
 
-- [LICENSE](LICENSE).
+- [LICENSE][license].
 
 ### 0.3.0
 
 #### Additions
 
-- [Checklist](README.md#checklist).
+- [Checklist][checklist].
 
 ### 0.2.1
 
 #### Additions
 
-- Link in [README.md](README.md) to [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
+- Link in [README.md][info] to [CODE_OF_CONDUCT.md][conduct].
 
 ### 0.2.0
 
 #### Additions
 
-- [CHANGELOG.md](./CHANGELOG.md).
+- [CHANGELOG.md][changelog].
 
 ### 0.1.0
 
 #### Additions
 
-- [README.md](README.md).
-- [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
+- [README.md][info].
+- [CODE_OF_CONDUCT.md][conduct].
+
+<!-- Link aliases -->
+
+<!-- Files & folders -->
+
+<!-- Project setup -->
+
+<!-- Git -->
+
+[ignore]: ../.gitignore
+[idea-ignore]: ../.idea/.gitignore
+
+<!-- Documentation & assets -->
+
+[info]: ./README.md
+
+[checklist]: ./README.md#checklist
+[license-heading]: ./README.md#license
+[issues-heading]: ./README.md#issues
+[guide]: ./README.md#creating-a-new-project-using-this-template
+
+[info-template]: ./README_TEMPLATE.md
+
+[releasing-new-versions]: ./README_TEMPLATE.md#releasing-new-versions
+[updating]: ./README_TEMPLATE.md#updating-this-project
+
+[features]: ./FEATURES.md
+[conduct]: ./CODE_OF_CONDUCT.md
+[changelog]: ./CHANGELOG.md
+[citation]: ../CITATION.cff
+[security]: ./SECURITY.md
+[ideas]: ./TODO.md
+[issues]: ./ISSUES.md
+[license]: ./LICENSE
+
+[assets]: ../assets/
+
+<!-- GitHub -->
+
+[issue-templates]: ./.github/ISSUE_TEMPLATE/
+[funding]: ./.github/FUNDING.yml
