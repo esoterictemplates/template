@@ -38,7 +38,6 @@ This file is used to track ideas and planned features for this project. Implemen
 ### Changes
 
 - Move this repository to GitLab and set up a push mirror?
-- Shorten headings in [README.md][info] and put a lot of the links under one heading instead.
 - Rename this to just "Template" for simplicity and possible consistency.
 - Update copyright and credit to use "Esoteric Templates".
 
