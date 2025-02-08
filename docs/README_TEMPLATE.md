@@ -1,6 +1,6 @@
 # Project Name
 
-<sup>Generated from [Template Repository][template] [3.0.0][template-version]</sup>
+<sup>Generated from [Template][template] [3.0.0][template-version]</sup>
 
 [![Project Status: Unfinished][status]][root] [![Repository Size][size]][root]
 
