@@ -40,6 +40,7 @@ This file is used to track ideas and planned features for this project. Implemen
 - Move this repository to GitLab and set up a push mirror?
 - Rename this to just "Template" for simplicity and possible consistency.
 - Update copyright and credit to use "Esoteric Templates".
+- For each documentation file, make one that is relevant to the template and one relevant to a project that would be generated from the template. This is in order to separate the template project from generated projects, would improve organisation and clarity.
 
 ### Removals
 
