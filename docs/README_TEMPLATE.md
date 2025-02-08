@@ -19,6 +19,7 @@ Project description.
 
 - Update [CHANGELOG.md][changelog].
 - Update [CITATION.cff][citation].
+- Update [SECURITY.md][security] if needed.
 
 ## Documentation
 
@@ -73,6 +74,7 @@ You should have received a copy of the [GNU General Public License][gpl-3.0] alo
 [ideas]: ./TODO.md
 [citation]: ../CITATION.cff
 [conduct]: ./CODE_OF_CONDUCT.md
+[security]: ./SECURITY.md
 
 <!-- Licenses -->
 
