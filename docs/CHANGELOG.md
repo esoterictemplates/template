@@ -14,6 +14,34 @@
 
 ## Log
 
+### 3.0.0
+
+#### Additions
+
+- [CONTACT.md][contact].
+- [Markdown linter][markdown-action] GitHub action.
+- [Spell checker][spell-action] GitHub action.
+- Configured [JetBrains IDE module][idea-modules].
+- Configured [JetBrains IDE name][idea-name].
+
+#### Changes
+
+- Used Markdown link aliases in ALL Markdown files.
+- Updated the [security policy][security].
+- Simplified links in [README.md template][info-template].
+- Removed some yap from [README.md][info].
+- Moved most files to the [docs][documentation] directory.
+- Updated the [Code of Conduct][conduct].
+- Updated [Git ignore file][ignore].
+
+#### Removals
+
+- Removed the usage of [FEATURES.md][features] for the template as this is meant more to keep track of real software/asset features. This may be added back in the future, see [TODO.md][ideas].
+
+#### Fixes
+
+- Made sure LF line-endings are used everywhere.
+
 ### 2.2.0
 
 #### Additions
@@ -175,12 +203,14 @@
 <!-- Git -->
 
 [ignore]: ../.gitignore
-[idea-ignore]: ../.idea/.gitignore
 
 <!-- Documentation & assets -->
 
+[documentation]: ../docs/
+
 [info]: ./README.md
 
+[contact]: ./CONTACT.md
 [checklist]: ./README.md#checklist
 [license-heading]: ./README.md#license
 [issues-heading]: ./README.md#issues
@@ -202,7 +232,21 @@
 
 [assets]: ../assets/
 
+<!-- IDE files -->
+
+<!-- JetBrains IDEs -->
+
+[idea]: ../.idea
+[idea-ignore]: ../.idea/.gitignore
+[idea-name]: ../.idea/.name
+[idea-modules]: ../.idea/modules.xml
+
 <!-- GitHub -->
 
 [issue-templates]: ./.github/ISSUE_TEMPLATE/
 [funding]: ./.github/FUNDING.yml
+
+<!-- Actions -->
+
+[spell-action]: ../.github/workflows/spell.yaml
+[markdown-action]: ../.github/workflows/markdown.yaml
