@@ -18,7 +18,7 @@ Project description.
 ### Releasing New Versions
 
 - Update [CHANGELOG.md](CHANGELOG.md).
-- Update [CITATION.cff](CITATION.cff).
+- Update [CITATION.cff](../CITATION.cff).
 
 ## Features
 
@@ -38,7 +38,7 @@ See [ISSUES.md](ISSUES.md) for a list of known bugs/issues with this project.
 
 ## Citation
 
-See [CITATION.cff](CITATION.cff) for instructions on how to cite this project.
+See [CITATION.cff](../CITATION.cff) for instructions on how to cite this project.
 
 ## Code of Conduct
 
