@@ -1,7 +1,7 @@
 # Contact
 
 | [![Discord logo][discord-logo]][discord] | [esoteric.foundation/discord][discord] |
-| :--------------------------------------- | :------------------------------------- |
+|:-----------------------------------------|:---------------------------------------|
 | [![Gmail logo][gmail-logo]][gmail]       | [foundationesoteric@gmail.com][gmail]  |
 
 <!-- Link aliases -->
