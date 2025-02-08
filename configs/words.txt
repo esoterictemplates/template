@@ -70,3 +70,7 @@ organisation
 gpl
 xyz
 TODO
+JetBrains
+LF
+xml
+yaml
