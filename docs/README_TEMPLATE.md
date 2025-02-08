@@ -13,7 +13,7 @@ Project description.
 - Update [CHANGELOG.md][changelog] if needed.
 - Update [FEATURES.md][features] if needed.
 - Update [ISSUES.md][issues] if needed.
-- Update [IDEAS.md][ideas] if needed.
+- Update [TODO.md][ideas] if needed.
 
 ### Releasing New Versions
 
@@ -24,7 +24,7 @@ Project description.
 
 - Features: [FEATURES.md][features].
 - Changelog: [CHANGELOG.md][changelog].
-- Ideas: [IDEAS.md][ideas].
+- Ideas: [TODO.md][ideas].
 - Issues: [ISSUES.md][issues].
 - Citation: [CITATION.cff][citation].
 - Code of Conduct: [CODE_OF_CONDUCT.md][conduct].
@@ -70,7 +70,7 @@ You should have received a copy of the [GNU General Public License][gpl-3.0] alo
 [changelog]: ./CHANGELOG.md
 [issues]: ./ISSUES.md
 [features]: ./FEATURES.md
-[ideas]: ./IDEAS.md
+[ideas]: ./TODO.md
 [citation]: ../CITATION.cff
 [conduct]: ./CODE_OF_CONDUCT.md
 

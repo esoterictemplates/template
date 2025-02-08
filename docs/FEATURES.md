@@ -21,7 +21,7 @@ This file documents all of the features of this project.
 - Perfect for tracking issues within smaller projects - can be deleted to use a different system such as GitHub issues instead.
 - Good way of sorting issues.
 
-## [IDEAS.md](./IDEAS.md)
+## [TODO.md](./TODO.md)
 
 - Perfect for tracking ideas within smaller projects - can be deleted to use a different system such as GitHub issues instead.
 - Good way of sorting ideas.
