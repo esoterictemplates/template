@@ -34,7 +34,7 @@ The following serves as a checklist - a list of tasks to complete when creating 
 - [ ] Update the [link(s)][project-name] of the badge(s) at the top of [README_TEMPLATE.md][info-template].
 - [ ] Fill in the information under the [license][license-heading] heading in [README_TEMPLATE.md][info-template].
 - [ ] Update the instructions in [SECURITY.md][security].
-- [ ] Fill in the [contact details][conduct-enforcement] in the [code of conduct][conduct] file.
+- [ ] Update [contact details][contact].
 - [ ] Clear the [changelog][changelog] file.
 - [ ] Clear the [issues][issues] file.
 - [ ] Clear the [ideas][ideas] file.
@@ -70,6 +70,8 @@ template templates template-project template-repository template-generic-repo
 
 [info]: ./README.md
 
+[contact]: ./CONTACT.md
+
 [license]: LICENSE
 
 [info-template]: ./README_TEMPLATE.md
@@ -85,8 +87,6 @@ template templates template-project template-repository template-generic-repo
 [citation]: ../CITATION.cff
 
 [conduct]: CODE_OF_CONDUCT.md
-
-[conduct-enforcement]: ./CODE_OF_CONDUCT.md#enforcement
 
 <!-- Links -->
 
