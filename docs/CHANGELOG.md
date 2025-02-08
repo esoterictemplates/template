@@ -228,7 +228,7 @@
 [security]: ./SECURITY.md
 [ideas]: ./TODO.md
 [issues]: ./ISSUES.md
-[license]: ./LICENSE
+[license]: ../LICENSE
 
 [assets]: ../assets/
 

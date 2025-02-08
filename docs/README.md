@@ -72,7 +72,7 @@ template templates template-project template-repository template-generic-repo
 
 [contact]: ./CONTACT.md
 
-[license]: LICENSE
+[license]: ../LICENSE
 
 [info-template]: ./README_TEMPLATE.md
 

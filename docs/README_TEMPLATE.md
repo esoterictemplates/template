@@ -76,7 +76,7 @@ You should have received a copy of the [GNU General Public License][gpl-3.0] alo
 
 <!-- Licenses -->
 
-[gpl-3.0]: ./LICENSE
+[gpl-3.0]: ../LICENSE
 
 <!-- Badges -->
 
