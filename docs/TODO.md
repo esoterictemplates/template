@@ -6,14 +6,14 @@ This file is used to track ideas and planned features for this project. Implemen
 
 ### Additions
 
-- [CONTRIBUTING.md](./CONTRIBUTING.md).
-- [SUPPORT.md](./SUPPORT.md).
+- [CONTRIBUTING.md][contributing].
+- [SUPPORT.md][support].
 
 ### Changes
 
 - Use Markdown link aliases in all Markdown files.
 - Move credits into a separate file.
-- Update [.idea folder](../.idea).
+- Update [.idea folder][idea].
 
 ## Considered
 
@@ -21,12 +21,12 @@ This file is used to track ideas and planned features for this project. Implemen
 
 - Pull request template?
 - Markdown linter GitLab CI/CD?
-- [UPGRADING.md](./UPGRADING.md) file?
+- [UPGRADING.md][upgrading] file?
 - Code owner information?
 - Contact information?
-- [FAQ.md file](./FAQ.md)?
-- [CONTRIBUTORS.md](./CONTRIBUTORS.md)?
-- [.github/ISSUE_TEMPLATE/config.yml](.github/ISSUE_TEMPLATE/config.yml)? (more information: [here](https://github.com/danpoynor/special-github-files?tab=readme-ov-file#page_facing_up-githubissue_templatebug_reportmd))
+- [FAQ.md file][faq]?
+- [CONTRIBUTORS.md][contributors]?
+- [.github/ISSUE_TEMPLATE/config.yml][issue-configuration]? (more information: [here][issue-configuration-link])
 - Add custom donation link?
 - Add an [editorconfig file](./.editorconfig)?
 - Add list of example usages of this template.
@@ -40,7 +40,7 @@ This file is used to track ideas and planned features for this project. Implemen
 ### Changes
 
 - Move this repository to GitLab and set up a push mirror?
-- Shorten headings in [README.md](README.md) and put a lot of the links under one heading instead.
+- Shorten headings in [README.md][info] and put a lot of the links under one heading instead.
 - Rename this to just "Template" for simplicity and possible consistency.
 - Update copyright and credit to use "Esoteric Templates".
 
@@ -54,4 +54,27 @@ This file is used to track ideas and planned features for this project. Implemen
 
 <!-- Files -->
 
+<!-- Documentation -->
+
+[info]: README.md
+
 [features]: FEATURES.md
+[contributing]: CONTRIBUTING.md
+[support]: SUPPORT.md
+[faq]: FAQ.md
+[contributors]: CONTRIBUTORS.md
+[upgrading]: UPGRADING.md
+
+<!-- IDE files -->
+
+[idea]: ../.idea
+
+<!-- GitHub -->
+
+[issue-configuration]: .github/ISSUE_TEMPLATE/config.yml
+
+<!-- Links -->
+
+<!-- Credit -->
+
+[issue-configuration-link]: https://github.com/danpoynor/special-github-files?tab=readme-ov-file#page_facing_up-githubissue_templatebug_reportmd
