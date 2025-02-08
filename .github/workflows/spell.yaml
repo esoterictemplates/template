@@ -1,11 +1,11 @@
-name: spelling
+name: spell
 
 on:
   push:
   pull_request:
 
 jobs:
-  spell:
+  check:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout project
