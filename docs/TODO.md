@@ -11,7 +11,6 @@ This file is used to track ideas and planned features for this project. Implemen
 
 ### Changes
 
-- Use Markdown link aliases in all Markdown files.
 - Move credits into a separate file.
 - Update [.idea folder][idea].
 
