@@ -50,6 +50,7 @@ This file is used to track ideas and planned features for this project. Implemen
 ### Removals
 
 - Remove year from copyright notice as I would have to maintain this?
+- Remove version from "generated from" text?
 
 ## Won't Implement
 
