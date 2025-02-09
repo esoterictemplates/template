@@ -8,6 +8,7 @@ This file is used to track ideas and planned features for this project. Implemen
 
 - [CONTRIBUTING.md][contributing].
 - [SUPPORT.md][support].
+- More spell checker configuration(s).
 
 ### Changes
 
