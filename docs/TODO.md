@@ -16,6 +16,8 @@ This file is used to track ideas and planned features for this project. Implemen
 - Update [.idea folder][idea].
 - Format the [citation file][citation].
 
+### Removals
+
 ## Considered
 
 ### Additions
@@ -50,6 +52,12 @@ This file is used to track ideas and planned features for this project. Implemen
 - Remove year from copyright notice as I would have to maintain this?
 
 ## Won't Implement
+
+### Additions
+
+### Changes
+
+### Removals
 
 <!-- Link aliases -->
 
