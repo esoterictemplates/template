@@ -12,7 +12,7 @@ Please [contact us][contact] in order to report the vulnerability in a private a
 
 <!-- Link aliases -->
 
-[root]: ./
+[root]: ../
 
 <!-- Contact -->
 
