@@ -64,6 +64,7 @@ This file is used to track ideas and planned features for this project. Implemen
 [faq]: FAQ.md
 [contributors]: CONTRIBUTORS.md
 [upgrading]: UPGRADING.md
+[citation]: ../CITATION.cff
 
 <!-- Assets -->
 
