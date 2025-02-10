@@ -9,9 +9,9 @@ abstract: >
 authors:
   - name: Esoteric Enderman
     alias: EE
-    website: 'https://enderman.dev'
+    website: https://enderman.dev
     email: esotericenderman@gmail.com
-    orcid: 'https://orcid.org/0009-0007-4990-9556'
+    orcid: https://orcid.org/0009-0007-4990-9556
 
 keywords:
   - template
@@ -23,12 +23,12 @@ keywords:
 license: GPL-3.0
 
 url: https://github.com/esoterictemplates/template?tab=readme-ov-file
-repository-code: 'https://github.com/esoterictemplates/template'
-repository-artifact: 'https://github.com/esoterictemplates/template/releases'
+repository-code: https://github.com/esoterictemplates/template
+repository-artifact: https://github.com/esoterictemplates/template/releases
 
 identifiers:
   - type: url
-    value: 'https://github.com/esoterictemplates/template'
+    value: https://github.com/esoterictemplates/template
     description: The link to the GitHub repository.
 
 message: If you need to cite this project, please do it as specified in this file.
