@@ -15,5 +15,5 @@
 
 <!-- Licenses -->
 
-[gpl-2.0]: ./licenses/LICENSE-GPL-2.0
-[unlicense]: ./licenses/LICENSE-Unlicense
+[gpl-2.0]: ./licenses/GPL-2.0
+[unlicense]: ./licenses/Unlicense
