@@ -29,6 +29,7 @@ Project description.
 - Issues: [ISSUES.md][issues].
 - Citation: [CITATION.cff][citation].
 - Code of Conduct: [CODE_OF_CONDUCT.md][conduct].
+- Credit: [CREDIT.md][credit].
 
 ## License
 
@@ -39,10 +40,6 @@ This program is free software: you can redistribute it and/or modify it under th
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the [GNU General Public License][gpl-3.0] for more details.
 
 You should have received a copy of the [GNU General Public License][gpl-3.0] along with this program. If not, see [gnu.org/licenses][licenses].
-
-## Credit
-
-- [Template Repository][template] &copy; [Esoteric Enderman][template-author], licensed under the [GPL-3.0][gpl-3.0].
 
 <!-- Link aliases -->
 
@@ -60,7 +57,6 @@ You should have received a copy of the [GNU General Public License][gpl-3.0] alo
 
 [template]: https://github.com/esoterictemplates/template
 [template-version]: https://github.com/esoterictemplates/template/tree/3.0.0
-[template-author]: https://enderman.dev
 
 <!-- Websites -->
 
@@ -76,6 +72,7 @@ You should have received a copy of the [GNU General Public License][gpl-3.0] alo
 [citation]: ../CITATION.cff
 [conduct]: ./CODE_OF_CONDUCT.md
 [security]: ./SECURITY.md
+[credit]: ./CREDIT.md
 
 <!-- Licenses -->
 
