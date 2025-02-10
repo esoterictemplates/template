@@ -15,5 +15,5 @@
 
 <!-- Licenses -->
 
-[gpl-2.0]: ./licenses/GPL-2.0
-[unlicense]: ./licenses/Unlicense
+[gpl-2.0]: https://github.com/joelparkerhenderson/github-special-files-and-paths/blob/a6c950e149e0d6b8168318205bfc4003d4796222/README.md?plain=1#L322
+[unlicense]: https://github.com/danpoynor/special-github-files/blob/c1df4123d0fccbb81b157814deac2c922bdc04b8/LICENSE
