@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 title: Template
 message: If you need to cite this project, please do it as specified in this file.
-type: generic
+type: software
 authors:
   - name: Esoteric Enderman
     alias: EE
