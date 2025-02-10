@@ -46,7 +46,7 @@ You should have received a copy of the [GNU General Public License][gpl-3.0] alo
 
 <!-- Link aliases -->
 
-[root]: ./
+[root]: ../
 
 <!-- Links -->
 
