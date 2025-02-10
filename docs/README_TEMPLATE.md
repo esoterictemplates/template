@@ -38,7 +38,7 @@ This program is free software: you can redistribute it and/or modify it under th
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the [GNU General Public License][gpl-3.0] for more details.
 
-You should have received a copy of the [GNU General Public License][gpl-3.0] along with this program. If not, see [gnu.org/licenses](https://www.gnu.org/licenses/).
+You should have received a copy of the [GNU General Public License][gpl-3.0] along with this program. If not, see [gnu.org/licenses][licenses].
 
 ## Credit
 
@@ -65,6 +65,7 @@ You should have received a copy of the [GNU General Public License][gpl-3.0] alo
 <!-- Websites -->
 
 [fsf]: https://www.fsf.org/
+[licenses]: https://www.gnu.org/licenses/
 
 <!-- Files -->
 
