@@ -2,6 +2,7 @@
 
 ## Format
 
+```markdown
 ### Version
 
 #### Additions
@@ -11,5 +12,6 @@
 #### Removals
 
 #### Fixes
+```
 
 ## Log
