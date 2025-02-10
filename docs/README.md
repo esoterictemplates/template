@@ -51,7 +51,7 @@ This template is free software: you can redistribute it and/or modify it under t
 
 This template is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the [GNU General Public License][license] for more details.
 
-You should have received a copy of the [GNU General Public License][license] along with this template. If not, see <[gnu.org/licenses][licenses]>.
+You should have received a copy of the [GNU General Public License][license] along with this template. If not, see [gnu.org/licenses][licenses].
 
 ## Topics
 
