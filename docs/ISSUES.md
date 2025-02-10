@@ -4,6 +4,8 @@ This file is used to keep track of issues with the project.
 
 ## Will Fix
 
+- [GitHub actions][actions] aren't credited.
+
 ## Won't Fix
 
 ## Fixed
@@ -15,6 +17,10 @@ This file is used to keep track of issues with the project.
 <!-- Link aliases -->
 
 <!-- Files -->
+
+<!-- GitHub actions -->
+
+[actions]: ../.github/workflows/
 
 <!-- Documentation -->
 
