@@ -59,7 +59,7 @@ template templates template-project template-repository template-generic-repo
 
 <!-- Link aliases -->
 
-[root]: ./
+[root]: ../
 
 <!-- Badges -->
 
