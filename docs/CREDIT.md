@@ -1,7 +1,7 @@
 # Credit
 
-- [Special GitHub Files][special-files] &copy; [Dan Poynor][special-files-author] licensed under the [Unlicense][unlicense].
-- [GitHub Special Files and Paths][files-and-paths] &copy; [Joel Parker Henderson][files-and-paths-author] licensed under the [GPL-2.0][gpl-2.0].
+- [Special GitHub Files][special-files] &copy; [Dan Poynor][special-files-author], licensed under the [Unlicense][unlicense].
+- [GitHub Special Files and Paths][files-and-paths] &copy; [Joel Parker Henderson][files-and-paths-author], licensed under the [GPL-2.0][gpl-2.0].
 
 <!-- Link aliases -->
 
