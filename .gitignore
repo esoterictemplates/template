@@ -85,3 +85,6 @@ android
 
 # Logs
 *.log
+
+# Common working directory
+run
