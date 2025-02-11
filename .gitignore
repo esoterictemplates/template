@@ -82,3 +82,6 @@ android
 
 ## Kotlin project cache
 .kotlin
+
+# Logs
+*.log
