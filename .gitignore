@@ -135,6 +135,9 @@ android
 ## Error dump files
 *.stackdump
 
+## JVM fatal error logs
+hs_err_pid*
+
 ## macOS event log
 .fseventsd
 
