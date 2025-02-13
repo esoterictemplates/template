@@ -76,9 +76,10 @@ build
 dist
 bin
 
-## Java executables and compiled files
+## Java executables, compiled files and build information
 *.jar
 *.class
+*.ctxt
 
 ## Libraries
 ### Node.js packages
