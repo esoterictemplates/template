@@ -38,10 +38,10 @@
 *.odm
 *.ott
 
-# Installer files
+## Installer files
 *.iso
 
-## Windows installer files
+### Windows installer files
 *.cab
 *.msi
 *.msix
