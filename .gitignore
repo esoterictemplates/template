@@ -72,8 +72,8 @@ cache
 *.apk
 
 ## Common compiled files and/or binaries
-dist
 build
+dist
 bin
 
 ## Java executables and compiled files
