@@ -1,6 +1,11 @@
 # Temporary files
 *.tmp
 
+## Cache
+
+### Kotlin project cache
+.kotlin
+
 ## Lock files
 *.lock
 ~$*.*
@@ -80,11 +85,6 @@ package-lock.json
 ## Godot 4+ specific ignores
 .godot
 android
-
-# Cache
-
-## Kotlin project cache
-.kotlin
 
 # Logs
 *.log
