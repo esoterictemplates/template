@@ -43,6 +43,30 @@ The following serves as a checklist - a list of tasks to complete when creating 
 - [ ] Delete [this file][info] and rename [README_TEMPLATE.md][info-template] to `README.md`.
 - [ ] Commit your changes to version control if applicable.
 
+## Features
+
+See [FEATURES.md][features] for a list of features of this template.
+
+## Changelog
+
+See [CHANGELOG.md][changelog] for a list of changes throughout different versions.
+
+## Ideas
+
+See [TODO.md][ideas] for ideas and planned features for this template.
+
+## Issues
+
+See [ISSUES.md][issues] for a list of known bugs/issues with this template.
+
+## Citation
+
+See [CITATION.cff][citation] for instructions on how to cite this template.
+
+## Code of Conduct
+
+See [CODE_OF_CONDUCT.md][conduct] for the code of conduct.
+
 ## License
 
 [Template Repository][root] &copy; 2024-2025 [Esoteric Enderman][website]
