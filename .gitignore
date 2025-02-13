@@ -113,6 +113,9 @@ gradlew.bat
 ## KDE directory preferences
 .directory
 
+## IntelliJ IDEA workspace
+*.iws
+
 ## macOS icons
 Icon?
 VolumeIcon.icns
