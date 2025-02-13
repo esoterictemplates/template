@@ -71,7 +71,7 @@ cache
 *.exe
 *.apk
 
-## Common compiled files
+## Common compiled files and/or binaries
 dist
 build
 bin
