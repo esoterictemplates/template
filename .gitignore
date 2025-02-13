@@ -118,6 +118,9 @@ android
 ## Error dump files
 *.stackdump
 
+## macOS event log
+.fseventsd
+
 # Common working directory
 run
 
