@@ -127,6 +127,9 @@ run
 $RECYCLE.BIN
 Network Trash Folder
 
+## macOS version history
+.DocumentRevisions-V100
+
 ## Microsoft backup files
 *.asd
 
