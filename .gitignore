@@ -114,6 +114,7 @@ VolumeIcon.icns
 .AppleDB
 .AppleDesktop
 .apdisk
+.com.apple.timemachine.donotpresent
 
 ## Godot 4+ specific ignores
 .godot
