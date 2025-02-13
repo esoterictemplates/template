@@ -98,3 +98,8 @@ android
 
 # Common working directory
 run
+
+# Backup files
+
+## Minecraft game data backup
+*.dat_old
