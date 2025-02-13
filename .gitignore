@@ -2,7 +2,7 @@
 *.lock
 ~$*.*
 
-## LibreOffice and OpenOffice temporary files
+## LibreOffice and OpenOffice lock files
 .~lock.*#
 
 # Archives
