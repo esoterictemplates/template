@@ -218,10 +218,10 @@
 [issues-heading]: ./README.md#issues
 [guide]: ./README.md#creating-a-new-project-using-this-template
 
-[info-template]: ./README_TEMPLATE.md
+[info-template]: ../template/docs/README_TEMPLATE.md
 
-[releasing-new-versions]: ./README_TEMPLATE.md#releasing-new-versions
-[updating]: ./README_TEMPLATE.md#updating-this-project
+[releasing-new-versions]: ../template/docs/README_TEMPLATE.md#releasing-new-versions
+[updating]: ../template/docs/README_TEMPLATE.md#updating-this-project
 
 [features]: ./FEATURES.md
 [conduct]: ./CODE_OF_CONDUCT.md

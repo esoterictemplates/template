@@ -74,10 +74,10 @@ template templates template-project template-repository template-generic-repo
 
 [license]: ../LICENSE
 
-[info-template]: ./README_TEMPLATE.md
+[info-template]: ../template/docs/README_TEMPLATE.md
 
-[project-name]: ./README_TEMPLATE.md#project-name
-[license-heading]: ./README_TEMPLATE.md#license
+[project-name]: ../template/docs/README_TEMPLATE.md#project-name
+[license-heading]: ../template/docs/README_TEMPLATE.md#license
 
 [features]: FEATURES.md
 [changelog]: CHANGELOG.md
