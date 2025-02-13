@@ -174,3 +174,8 @@ Network Trash Folder
 
 ## Minecraft game data backup
 *.dat_old
+
+# Outdated
+
+## Outdated Intellij IDEA project format
+*.ipr
