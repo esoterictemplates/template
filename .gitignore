@@ -107,6 +107,9 @@ run
 
 # Backup files
 
+## Recycled files
+$RECYCLE.BIN
+
 ## Microsoft backup files
 *.asd
 
