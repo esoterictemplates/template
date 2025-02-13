@@ -74,6 +74,7 @@ cache
 ## Common compiled files and/or binaries
 build
 dist
+target
 bin
 
 ## Java executables, compiled files and build information
