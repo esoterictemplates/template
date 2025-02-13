@@ -38,6 +38,9 @@ ehthumbs_vista.db
 *.gz
 *.7z
 *.rar
+*.war
+*.nar
+*.ear
 
 ## Minecraft archives
 
