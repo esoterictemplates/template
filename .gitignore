@@ -74,6 +74,7 @@ cache
 ## Common compiled files
 dist
 build
+bin
 
 ## Java executables and compiled files
 *.jar
