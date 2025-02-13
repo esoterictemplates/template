@@ -1,8 +1,11 @@
-# Lock files
+# Temporary files
+*.tmp
+
+## Lock files
 *.lock
 ~$*.*
 
-## LibreOffice and OpenOffice lock files
+### LibreOffice and OpenOffice lock files
 .~lock.*#
 
 # Archives
