@@ -101,8 +101,11 @@ gradlew.bat
 ## Folder configuration file
 [Dd]esktop.ini
 
-## IOS user-specific file
+## IOS user-specific files
 .DS_Store
+.AppleDB
+.AppleDesktop
+.apdisk
 
 ## Godot 4+ specific ignores
 .godot
