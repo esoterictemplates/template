@@ -92,6 +92,9 @@ gradlew.bat
 
 # User-specific files
 
+## Folder configuration file
+[Dd]esktop.ini
+
 ## IOS user-specific file
 .DS_Store
 
