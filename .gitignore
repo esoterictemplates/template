@@ -116,6 +116,8 @@ VolumeIcon.icns
 .AppleDesktop
 .apdisk
 .com.apple.timemachine.donotpresent
+.AppleDouble
+.LSOverride
 
 ## General internal/user-specific files
 ._*
