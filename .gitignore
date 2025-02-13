@@ -90,6 +90,9 @@ gradlew.bat
 
 # User-specific files
 
+## IOS user-specific file
+.DS_Store
+
 ## Godot 4+ specific ignores
 .godot
 android
