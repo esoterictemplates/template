@@ -11,7 +11,7 @@
 
 [cff]: https://doi.org/10.5281/zenodo.5171937
 
-[cff-init]: https://citation-file-format.github.io/cff-initializer-javascript/#/
+[cff-init]: https://doi.org/10.5281/zenodo.8224012
 
 [special-files]: https://github.com/danpoynor/special-github-files
 [special-files-author]: https://danpoynor.com/
