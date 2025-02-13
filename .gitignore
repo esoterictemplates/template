@@ -10,6 +10,12 @@ cache
 ### Kotlin project cache
 .kotlin
 
+### Windows thumbnail cache files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
 ## Lock files
 *.lock
 
