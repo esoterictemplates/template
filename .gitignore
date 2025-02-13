@@ -17,6 +17,9 @@ Thumbs.db:encryptable
 ehthumbs.db
 ehthumbs_vista.db
 
+### macOS search index
+.Spotlight-V100
+
 ## Lock files
 *.lock
 
