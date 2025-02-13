@@ -1,6 +1,7 @@
 # Temporary files
 *.tmp
 Temporary Items
+.TemporaryItems
 
 ## Cache
 cache
