@@ -14,7 +14,7 @@ cache
 *.lock
 
 ### Microsoft Office lock files
-~$*.*
+~$*
 
 ### LibreOffice and OpenOffice lock files
 .~lock.*#
