@@ -4,6 +4,9 @@
 ## Cache
 cache
 
+### Gradle project cache
+.gradle
+
 ### Kotlin project cache
 .kotlin
 
