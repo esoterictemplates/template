@@ -6,6 +6,16 @@
 
 Project description.
 
+## Documentation
+
+- Features: [FEATURES.md][features].
+- Changelog: [CHANGELOG.md][changelog].
+- Ideas: [TODO.md][ideas].
+- Issues: [ISSUES.md][issues].
+- Citation: [CITATION.cff][citation].
+- Code of Conduct: [CODE_OF_CONDUCT.md][conduct].
+- Credit: [CREDIT.md][credit].
+
 ## Usage
 
 ### Updating This Project
@@ -20,16 +30,6 @@ Project description.
 - Update [CHANGELOG.md][changelog].
 - Update [CITATION.cff][citation].
 - Update [SECURITY.md][security] if needed.
-
-## Documentation
-
-- Features: [FEATURES.md][features].
-- Changelog: [CHANGELOG.md][changelog].
-- Ideas: [TODO.md][ideas].
-- Issues: [ISSUES.md][issues].
-- Citation: [CITATION.cff][citation].
-- Code of Conduct: [CODE_OF_CONDUCT.md][conduct].
-- Credit: [CREDIT.md][credit].
 
 ## License
 

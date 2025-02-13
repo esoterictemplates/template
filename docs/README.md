@@ -4,6 +4,16 @@
 
 This repository serves as a general-purpose template for generating new projects.
 
+## Documentation
+
+- Features: [FEATURES.md][features].
+- Changelog: [CHANGELOG.md][changelog].
+- Ideas: [TODO.md][ideas].
+- Issues: [ISSUES.md][issues].
+- Citation: [CITATION.cff][citation].
+- Code of Conduct: [CODE_OF_CONDUCT.md][conduct].
+- Credit: [CREDIT.md][credit].
+
 ## Usage
 
 ### Creating a New Project Using This Template
@@ -42,16 +52,6 @@ The following serves as a checklist - a list of tasks to complete when creating 
 - [ ] If you are using a different system to track features, ideas, and/or issues, delete those files respectively.
 - [ ] Delete [this file][info] and rename [README_TEMPLATE.md][info-template] to `README.md`.
 - [ ] Commit your changes to version control if applicable.
-
-## Documentation
-
-- Features: [FEATURES.md][features].
-- Changelog: [CHANGELOG.md][changelog].
-- Ideas: [TODO.md][ideas].
-- Issues: [ISSUES.md][issues].
-- Citation: [CITATION.cff][citation].
-- Code of Conduct: [CODE_OF_CONDUCT.md][conduct].
-- Credit: [CREDIT.md][credit].
 
 ## License
 
