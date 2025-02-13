@@ -2,7 +2,7 @@
 
 - [Citation File Format][cff] &copy; Druskat, S., Spaaks, J. H., Chue Hong, N., Haines, R., Baker, J., Bliven, S., Willighagen, E., Pérez-Suárez, D., Konovalov, O., licensed under [CC-BY-4.0][cc-by-4.0].
 - [CFFInit][cff-init] &copy; Spaaks, J. H., Verhoeven, S., Diblen, F., Druskat, S., Soares Siqueira, A., Garcia Gonzalez, J., Cushing, R., licensed under the [Apache License 2.0][apache-2.0].
-- [Special GitHub Files][special-files] &copy; [Dan Poynor][special-files-author], licensed under the [Unlicense][unlicense].
+- [Special GitHub Files][special-files] &copy; [Poynor, D.][special-files-author], licensed under the [Unlicense][unlicense].
 - [GitHub Special Files and Paths][files-and-paths] &copy; [Joel Parker Henderson][files-and-paths-author], licensed under the [GPL-2.0 or later][gpl-2.0].
 
 <!-- Link aliases -->
