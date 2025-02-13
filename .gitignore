@@ -102,5 +102,8 @@ run
 
 # Backup files
 
+## Microsoft backup files
+*.asd
+
 ## Minecraft game data backup
 *.dat_old
