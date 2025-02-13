@@ -116,6 +116,9 @@ VolumeIcon.icns
 .apdisk
 .com.apple.timemachine.donotpresent
 
+## General internal/user-specific files
+._*
+
 ## Godot 4+ specific ignores
 .godot
 android
