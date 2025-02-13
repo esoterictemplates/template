@@ -2,6 +2,7 @@
 *.tmp
 
 ## Cache
+cache
 
 ### Kotlin project cache
 .kotlin
