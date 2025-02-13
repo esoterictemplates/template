@@ -105,6 +105,9 @@ android
 # Logs
 *.log
 
+## Error dump files
+*.stackdump
+
 # Common working directory
 run
 
