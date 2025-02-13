@@ -24,9 +24,13 @@ cache
 *.gz
 *.7z
 *.rar
-## Minecraft Bedrock edition worlds
+
+## Minecraft Archives
+
+### Minecraft Bedrock edition worlds
 *.mcworld
-## Minecraft Modrinth modpacks
+
+### Minecraft Modrinth modpacks
 *.mrpack
 
 ## Microsoft Office file formats (ZIP-based)
