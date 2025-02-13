@@ -55,7 +55,7 @@ The following serves as a checklist - a list of tasks to complete when creating 
 
 ## License
 
-[Template Repository][root] &copy; 2024-2025 [Esoteric Enderman][website]
+[Template][root] &copy; 2024-2025 [Esoteric Enderman][website]
 
 This template is free software: you can redistribute it and/or modify it under the terms of the [GNU Affero General Public License][license] as published by the [Free Software Foundation][free-software-foundation], either [version 3][license] of the License, or (at your option) any later version.
 
