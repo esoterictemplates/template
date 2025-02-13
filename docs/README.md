@@ -43,29 +43,15 @@ The following serves as a checklist - a list of tasks to complete when creating 
 - [ ] Delete [this file][info] and rename [README_TEMPLATE.md][info-template] to `README.md`.
 - [ ] Commit your changes to version control if applicable.
 
-## Features
+## Documentation
 
-See [FEATURES.md][features] for a list of features of this template.
-
-## Changelog
-
-See [CHANGELOG.md][changelog] for a list of changes throughout different versions.
-
-## Ideas
-
-See [TODO.md][ideas] for ideas and planned features for this template.
-
-## Issues
-
-See [ISSUES.md][issues] for a list of known bugs/issues with this template.
-
-## Citation
-
-See [CITATION.cff][citation] for instructions on how to cite this template.
-
-## Code of Conduct
-
-See [CODE_OF_CONDUCT.md][conduct] for the code of conduct.
+- Features: [FEATURES.md][features].
+- Changelog: [CHANGELOG.md][changelog].
+- Ideas: [TODO.md][ideas].
+- Issues: [ISSUES.md][issues].
+- Citation: [CITATION.cff][citation].
+- Code of Conduct: [CODE_OF_CONDUCT.md][conduct].
+- Credit: [CREDIT.md][credit].
 
 ## License
 
@@ -109,6 +95,7 @@ template templates template-project template-repository template-generic-repo
 [issues]: ISSUES.md
 
 [citation]: ../CITATION.cff
+[credit]: CREDIT.md
 
 [conduct]: CODE_OF_CONDUCT.md
 
