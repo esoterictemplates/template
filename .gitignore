@@ -88,6 +88,7 @@ ehthumbs_vista.db
 ## Common compiled files and/or binaries
 build
 dist
+out
 target
 bin
 
