@@ -106,6 +106,9 @@ gradlew.bat
 ## Folder configuration file
 [Dd]esktop.ini
 
+## macOS icons
+VolumeIcon.icns
+
 ## macOS user-specific files
 .DS_Store
 .AppleDB
