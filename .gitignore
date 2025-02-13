@@ -102,7 +102,7 @@ gradlew.bat
 ## Folder configuration file
 [Dd]esktop.ini
 
-## IOS user-specific files
+## macOS user-specific files
 .DS_Store
 .AppleDB
 .AppleDesktop
