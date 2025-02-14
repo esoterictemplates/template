@@ -12,6 +12,9 @@ cache
 ### Kotlin project cache
 .kotlin
 
+### Cached remapped source
+remappedSrc
+
 ### Minecraft Architectury Transformer cache
 .architectury-transformer
 
