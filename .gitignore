@@ -141,6 +141,9 @@ gradlew.bat
 Icon?
 VolumeIcon.icns
 
+## Windows shortcuts
+*.lnk
+
 ## macOS user-specific files
 .DS_Store
 .AppleDB
