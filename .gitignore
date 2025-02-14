@@ -21,7 +21,10 @@ remappedSrc
 ### Minecraft Architectury Transformer cache
 .architectury-transformer
 
-### Spring Beans cache and metadata
+### Spring Tool Suite (STS) cache
+.sts4-cache
+
+#### Spring Beans cache and metadata
 .springBeans
 
 ### Windows thumbnail cache files
