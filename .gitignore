@@ -190,6 +190,7 @@ run
 runs
 
 # Backup files
+backup
 
 ## Recycled files
 .Trash-[0-9]*
