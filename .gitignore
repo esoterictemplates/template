@@ -167,6 +167,7 @@ hs_err_pid*
 .fseventsd
 
 # Common working directory
+work
 run
 
 # Backup files
