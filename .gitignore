@@ -179,6 +179,9 @@ VolumeIcon.icns
 .godot
 android
 
+## NetBeans private/user-specific information
+nbproject/private
+
 # Logs
 *.log
 
