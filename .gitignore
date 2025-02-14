@@ -173,6 +173,9 @@ VolumeIcon.icns
 ## Windows shortcuts
 *.lnk
 
+## Gradle local (user-specific) information
+local.properties
+
 ## macOS user-specific files
 .DS_Store
 .AppleDB
