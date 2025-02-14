@@ -242,6 +242,9 @@ pom.xml.next
 .nfs*
 .fuse_hidden[0-9]*
 
+## Blender backup
+*.blend1
+
 ## macOS version history
 .DocumentRevisions-V100
 
