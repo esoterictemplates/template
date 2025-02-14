@@ -119,6 +119,9 @@ buildNumber.properties
 ### Node.js packages
 node_modules
 
+## External libraries (mainly used with Java + Gradle)
+libs
+
 ## Gradle wrapper
 gradlew
 gradlew.bat
