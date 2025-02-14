@@ -21,6 +21,9 @@ remappedSrc
 ### Minecraft Architectury Transformer cache
 .architectury-transformer
 
+### Spring Beans cache and metadata
+.springBeans
+
 ### Windows thumbnail cache files
 Thumbs.db
 Thumbs.db:encryptable
