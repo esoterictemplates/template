@@ -133,6 +133,9 @@ gradlew.bat
 
 # User-specific files
 
+## API keys, encryption keys, or license keys
+*_key.txt
+
 ## Folder configuration file
 [Dd]esktop.ini
 
