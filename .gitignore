@@ -102,6 +102,10 @@ output
 target
 bin
 
+## NetBeans build/distributable files
+nbbuild
+nbdist
+
 ## Java executables, compiled files and build information
 *.jar
 *.class
