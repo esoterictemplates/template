@@ -15,6 +15,9 @@ cache
 ### Cached NetBeans information
 .nb-gradle
 
+### Cached mappings
+mappings
+
 ### Cached remapped source
 remappedSrc
 
