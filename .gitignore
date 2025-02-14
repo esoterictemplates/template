@@ -99,6 +99,7 @@ bin
 ## Java executables, compiled files and build information
 *.jar
 *.class
+classes
 *.ctxt
 
 ### Maven build/release information
