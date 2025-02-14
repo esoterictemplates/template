@@ -181,6 +181,9 @@ android
 ## JVM fatal error logs
 hs_err_pid*
 
+## JVM OutOfMemoryError logs
+*.hprof
+
 ## macOS event log
 .fseventsd
 
