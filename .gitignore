@@ -12,6 +12,9 @@ cache
 ### Kotlin project cache
 .kotlin
 
+### Cached NetBeans information
+.nb-gradle
+
 ### Cached remapped source
 remappedSrc
 
