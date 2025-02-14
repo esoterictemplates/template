@@ -130,6 +130,9 @@ buildNumber.properties
 #### Tracks Maven Daemon execution time
 .mvn/timing.properties
 
+### Annotation Processing Tool (APT) files
+.apt_generated
+
 ## Libraries
 ### Node.js packages
 node_modules
