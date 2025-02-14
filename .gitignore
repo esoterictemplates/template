@@ -187,6 +187,7 @@ hs_err_pid*
 # Common working directory
 work
 run
+runs
 
 # Backup files
 
