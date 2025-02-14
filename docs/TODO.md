@@ -26,6 +26,7 @@ This file is used to track ideas and planned features for this project. Implemen
 - Markdown linter GitLab CI/CD?
 - [UPGRADING.md][upgrading] file?
 - Code owner information?
+- Add information on how to get the full OS version string.
 - [FAQ.md file][faq]?
 - [CONTRIBUTORS.md][contributors]?
 - [.github/ISSUE_TEMPLATE/config.yml][issue-configuration]? (more information: [here][issue-configuration-link])
