@@ -33,13 +33,7 @@ Project description.
 
 ## License
 
-[Repository Name][root] &copy; \<year> [\<name of author>][author-website]
-
-This program is free software: you can redistribute it and/or modify it under the terms of the [GNU Affero General Public License][agpl-3.0] as published by the [Free Software Foundation][fsf], [version 3][agpl-3.0].
-
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the [GNU Affero General Public License][agpl-3.0] for more details.
-
-You should have received a copy of the [GNU Affero General Public License][agpl-3.0] along with this program. If not, see [gnu.org/licenses][licenses].
+[Repository Name][root] &copy; \<year> [\<name of author>][author-website] is licensed under the [AGPL 3.0][agpl-3.0].
 
 <!-- Link aliases -->
 
@@ -56,11 +50,6 @@ You should have received a copy of the [GNU Affero General Public License][agpl-
 <!-- Template -->
 
 [template]: https://github.com/esoterictemplates/template
-
-<!-- Websites -->
-
-[fsf]: https://www.fsf.org/
-[licenses]: https://www.gnu.org/licenses/
 
 <!-- Files -->
 
