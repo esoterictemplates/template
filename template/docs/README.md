@@ -35,7 +35,7 @@ Project description.
 
 [Repository Name][root] &copy; \<year> [\<name of author>][author-website]
 
-This program is free software: you can redistribute it and/or modify it under the terms of the [GNU Affero General Public License][agpl-3.0] as published by the [Free Software Foundation][fsf], either [version 3][agpl-3.0] of the License, or (at your option) any later version.
+This program is free software: you can redistribute it and/or modify it under the terms of the [GNU Affero General Public License][agpl-3.0] as published by the [Free Software Foundation][fsf], [version 3][agpl-3.0].
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the [GNU Affero General Public License][agpl-3.0] for more details.
 

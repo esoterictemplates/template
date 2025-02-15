@@ -57,7 +57,7 @@ The following serves as a checklist - a list of tasks to complete when creating 
 
 [Template][root] &copy; 2024-2025 [Esoteric Enderman][website]
 
-This template is free software: you can redistribute it and/or modify it under the terms of the [GNU Affero General Public License][license] as published by the [Free Software Foundation][free-software-foundation], either [version 3][license] of the License, or (at your option) any later version.
+This template is free software: you can redistribute it and/or modify it under the terms of the [GNU Affero General Public License][license] as published by the [Free Software Foundation][free-software-foundation], [version 3][license].
 
 This template is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the [GNU Affero General Public License][license] for more details.
 
