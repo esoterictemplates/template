@@ -31,8 +31,10 @@ If applicable, add screenshots or videos to help explain your problem.
 ## Versions
 
 - Project version: 
-- Operating system & version: 
+- Operating system & version[^1]: 
 
 ## Additional Context
 
 Add any other context about the problem here.
+
+[^1]: The operating system version can be obtained by running the `uname -a` command on Linux.
