@@ -37,4 +37,4 @@ If applicable, add screenshots or videos to help explain your problem.
 
 Add any other context about the problem here.
 
-[^1]: The operating system version can be obtained by running the `uname -a` command on Linux.
+[^1]: The operating system version can be obtained by running the `uname -a` command on Linux, and the `ver` command on Windows.
