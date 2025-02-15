@@ -4,7 +4,7 @@ title: Template
 type: software
 
 abstract: >
-  This repository serves as a general-purpose template for generating new projects.
+  This is a general-purpose template for generating new projects.
 
 authors:
   - name: Esoteric Enderman
