@@ -6,12 +6,9 @@ This repository serves as a general-purpose template for generating new projects
 
 ## Documentation
 
-- Features: [FEATURES.md][features].
-- Changelog: [CHANGELOG.md][changelog].
 - Ideas: [TODO.md][ideas].
 - Issues: [ISSUES.md][issues].
 - Citation: [CITATION.cff][citation].
-- Code of Conduct: [CODE_OF_CONDUCT.md][conduct].
 - Credit: [CREDIT.md][credit].
 
 ## Usage
