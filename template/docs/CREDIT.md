@@ -1,6 +1,6 @@
 # Credit
 
-- [Template][template] &copy; [Esoteric Enderman][template-author], licensed under the [AGPL-3.0][template-license].
+- [Template][template] &copy; [Esoteric Enderman][template-author], licensed under the [AGPL 3.0][template-license].
 
 <!-- Link aliases -->
 
