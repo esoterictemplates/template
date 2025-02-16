@@ -68,5 +68,5 @@ Project description.
 
 <!-- Badges -->
 
-[status]: ../assets/images/badges/status/unfinished.svg
+[status]: ./assets/images/badges/status/unfinished.svg
 [size]: https://img.shields.io/github/repo-size/author/project?style=for-the-badge&logo=git&label=Repository%20size
