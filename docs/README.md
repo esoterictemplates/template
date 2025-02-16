@@ -4,10 +4,6 @@
 
 This repository serves as a general-purpose template for generating new projects.
 
-## Credit
-
-See [CREDIT.md][credit].
-
 ## Usage
 
 ### Creating a New Project Using This Template
@@ -67,8 +63,6 @@ template templates template-project template-repository template-generic-repo
 
 [template]: ../template
 [docs]: ../docs
-
-[credit]: ../template/docs/CREDIT.md
 
 [conduct]: ../template/docs/CODE_OF_CONDUCT.md
 
