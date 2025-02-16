@@ -4,12 +4,9 @@
 
 This repository serves as a general-purpose template for generating new projects.
 
-## Documentation
+## Credit
 
-- Ideas: [TODO.md][ideas].
-- Issues: [ISSUES.md][issues].
-- Citation: [CITATION.cff][citation].
-- Credit: [CREDIT.md][credit].
+See [CREDIT.md][credit].
 
 ## Usage
 
@@ -77,7 +74,7 @@ template templates template-project template-repository template-generic-repo
 [issues]: ISSUES.md
 
 [citation]: ../CITATION.cff
-[credit]: CREDIT.md
+[credit]: ../template/docs/CREDIT.md
 
 [conduct]: ../template/docs/CODE_OF_CONDUCT.md
 
