@@ -20,16 +20,16 @@ Project description.
 
 ### Updating This Project
 
-- Update [CHANGELOG.md][changelog] if needed.
-- Update [FEATURES.md][features] if needed.
-- Update [ISSUES.md][issues] if needed.
-- Update [TODO.md][ideas] if needed.
+- Update the [changelog][changelog] if needed.
+- Update [features][features] if needed.
+- Update [issues][issues] if needed.
+- Update [to-do][ideas] if needed.
 
 ### Releasing New Versions
 
-- Update [CHANGELOG.md][changelog].
-- Update [CITATION.cff][citation].
-- Update [SECURITY.md][security] if needed.
+- Update the [changelog][changelog].
+- Update [citation][citation].
+- Update [security][security] if needed.
 
 ## License
 
