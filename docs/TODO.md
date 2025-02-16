@@ -80,7 +80,7 @@ This file is used to track ideas and planned features for this project. Implemen
 
 <!-- Assets -->
 
-[badges]: ../assets/images/badges
+[badges]: assets/images/badges
 
 <!-- IDE files -->
 
