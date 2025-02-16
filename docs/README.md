@@ -54,22 +54,10 @@ template templates template-project template-repository template-generic-repo
 
 <!-- Files -->
 
-[info]: ./README.md
-
-[contact]: ./CONTACT.md
-
 [license]: ../LICENSE
 
 [template]: ../template
 [docs]: ../docs
-
-[conduct]: ../template/docs/CODE_OF_CONDUCT.md
-
-[security]: ../template/docs/SECURITY.md
-
-<!-- IDE files -->
-
-[idea-name]: ../.idea/.name
 
 <!-- Links -->
 
