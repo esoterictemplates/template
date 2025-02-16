@@ -64,7 +64,7 @@ Project description.
 
 <!-- Licenses -->
 
-[agpl-3.0]: ../LICENSE
+[agpl-3.0]: ./LICENSE
 
 <!-- Badges -->
 
