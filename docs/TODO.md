@@ -8,13 +8,8 @@ This file is used to track ideas and planned features for this project. Implemen
 
 - [CONTRIBUTING.md][contributing].
 - [SUPPORT.md][support].
-- More spell checker configuration(s).
 
 ### Changes
-
-- Move credits into a separate file.
-- Update [.idea folder][idea].
-- Format the [citation file][citation].
 
 ### Removals
 
@@ -26,7 +21,6 @@ This file is used to track ideas and planned features for this project. Implemen
 - Markdown linter GitLab CI/CD?
 - [UPGRADING.md][upgrading] file?
 - Code owner information?
-- Add information on how to get the full OS version string.
 - [FAQ.md file][faq]?
 - [CONTRIBUTORS.md][contributors]?
 - [.github/ISSUE_TEMPLATE/config.yml][issue-configuration]? (more information: [here][issue-configuration-link])
@@ -43,14 +37,10 @@ This file is used to track ideas and planned features for this project. Implemen
 ### Changes
 
 - Move this repository to GitLab and set up a push mirror?
-- Rename this to just "Template" for simplicity and possible consistency.
 - For each documentation file, make one that is relevant to the template and one relevant to a project that would be generated from the template. This is in order to separate the template project from generated projects, would improve organisation and clarity.
 - Update [badge][badges] SVG data and conventions.
 
 ### Removals
-
-- Remove year from copyright notice as I would have to maintain this?
-- Remove version from "generated from" text?
 
 ## Won't Implement
 
@@ -61,6 +51,8 @@ This file is used to track ideas and planned features for this project. Implemen
 - Update copyright and credit to use "Esoteric Templates". - Esoteric Templates isn't really an *entity* that can hold copyright per se, and instead just a collection of templates. My name will be used for copyright.
 
 ### Removals
+
+- Remove year from copyright notice as I would have to maintain this? - this is best practice.
 
 <!-- Link aliases -->
 
