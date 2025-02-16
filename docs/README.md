@@ -23,7 +23,8 @@ This repository serves as a general-purpose template for generating new projects
 
 - Download the files of this repository, either via a zip archive, or using `git clone`.
 - If you used `git clone`, delete the `.git` folder.
-- If you are using version control (recommended), create the first revision after following the [checklist](#checklist).
+- Follow the [checklist](#checklist)
+- If you are using version control (recommended), create the first revision.
 
 ### Checklist
 
