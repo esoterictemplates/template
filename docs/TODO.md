@@ -62,7 +62,7 @@ This file is used to track ideas and planned features for this project. Implemen
 
 [info]: README.md
 
-[features]: FEATURES.md
+[features]: ../template/docs/FEATURES.md
 [contributing]: CONTRIBUTING.md
 [support]: SUPPORT.md
 [faq]: FAQ.md

@@ -24,5 +24,5 @@ This file is used to keep track of issues with the project.
 
 <!-- Documentation -->
 
-[features]: ./FEATURES.md
+[features]: ../template/docs/FEATURES.md
 [citation]: ../CITATION.cff
