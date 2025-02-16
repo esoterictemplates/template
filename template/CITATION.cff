@@ -1,14 +1,14 @@
 cff-version: 1.2.0
 
-title:
+title: 
 type: software
 
 abstract: >
 
 
 authors:
-  - name:
-    alias:
+  - name: 
+    alias: 
     website: https://
     email: author@example.com
     orcid: https://orcid.org/x-y-z-w
@@ -25,10 +25,10 @@ repository-artifact: https://
 identifiers:
   - type: url
     value: https://
-    description:
+    description: 
 
 message: If you need to cite this project, please do it as specified in this file.
 
-version:
-commit:
-date-released:
+version: 
+commit: 
+date-released: 
