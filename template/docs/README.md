@@ -33,7 +33,7 @@ Project description.
 
 ## License
 
-[Repository Name][root] &copy; \<year> [\<name of author>][author-website] is licensed under the [AGPL 3.0][agpl-3.0].
+[Repository Name][root] &copy; \<year> [\<name of author>][author-website] is licensed under the [AGPL 3.0][license].
 
 <!-- Link aliases -->
 
@@ -64,7 +64,7 @@ Project description.
 
 <!-- Licenses -->
 
-[agpl-3.0]: ./LICENSE
+[license]: ./LICENSE
 
 <!-- Badges -->
 
