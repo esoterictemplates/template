@@ -37,7 +37,7 @@ Project description.
 
 <!-- Link aliases -->
 
-[root]: ../
+[root]: /
 
 <!-- Links -->
 
