@@ -68,12 +68,6 @@ template templates template-project template-repository template-generic-repo
 [template]: ../template
 [docs]: ../docs
 
-[features]: ../template/docs/FEATURES.md
-[changelog]: CHANGELOG.md
-[ideas]: TODO.md
-[issues]: ISSUES.md
-
-[citation]: ../CITATION.cff
 [credit]: ../template/docs/CREDIT.md
 
 [conduct]: ../template/docs/CODE_OF_CONDUCT.md
