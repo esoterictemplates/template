@@ -87,6 +87,3 @@ template templates template-project template-repository template-generic-repo
 <!-- Links -->
 
 [website]: https://enderman.dev
-
-[free-software-foundation]: https://www.fsf.org/
-[licenses]: https://www.gnu.org/licenses/
