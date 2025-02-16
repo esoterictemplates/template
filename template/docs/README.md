@@ -64,7 +64,7 @@ Project description.
 
 <!-- Licenses -->
 
-[license]: ./LICENSE
+[license]: /LICENSE
 
 <!-- Badges -->
 
