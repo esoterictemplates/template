@@ -82,9 +82,9 @@ template templates template-project template-repository template-generic-repo
 [citation]: ../CITATION.cff
 [credit]: CREDIT.md
 
-[conduct]: CODE_OF_CONDUCT.md
+[conduct]: ../template/docs/CODE_OF_CONDUCT.md
 
-[security]: SECURITY.md
+[security]: ../template/docs/SECURITY.md
 
 <!-- IDE files -->
 
