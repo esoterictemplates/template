@@ -39,18 +39,11 @@ This repository serves as a general-purpose template for generating new projects
 
 The following serves as a checklist - a list of tasks to complete when creating a new project using this template.
 
-- [ ] Update the [repository name][project-name] in [README_TEMPLATE.md][info-template].
-- [ ] Update the [project name][idea-name] for JetBrains editors.
-- [ ] Update the [repository description][project-name] in [README_TEMPLATE.md][info-template].
-- [ ] Update the [link(s)][project-name] of the badge(s) at the top of [README_TEMPLATE.md][info-template].
-- [ ] Fill in the information under the [license][license-heading] heading in [README_TEMPLATE.md][info-template].
-- [ ] Update [contact details][contact].
-- [ ] Clear the [changelog][changelog] file.
-- [ ] Clear the [issues][issues] file.
-- [ ] Clear the [ideas][ideas] file.
-- [ ] Update the information in the [citation][citation] file.
+- [ ] Update all files in the [`template/`][template] directory with your own information.
 - [ ] If you are using a different system to track features, ideas, and/or issues, delete those files respectively.
-- [ ] Delete [this file][info] and rename [README_TEMPLATE.md][info-template] to `README.md`.
+- [ ] Move the following files from [`docs/`][docs] to [`template/`][template]:
+  - [SECURITY.md][security].
+  - [CODE_OF_CONDUCT.md][conduct].
 - [ ] Commit your changes to version control if applicable.
 
 ## License
@@ -78,10 +71,8 @@ template templates template-project template-repository template-generic-repo
 
 [license]: ../LICENSE
 
-[info-template]: ../template/docs/README_TEMPLATE.md
-
-[project-name]: ../template/docs/README_TEMPLATE.md#project-name
-[license-heading]: ../template/docs/README_TEMPLATE.md#license
+[template]: ../template
+[docs]: ../docs
 
 [features]: FEATURES.md
 [changelog]: CHANGELOG.md
@@ -92,6 +83,8 @@ template templates template-project template-repository template-generic-repo
 [credit]: CREDIT.md
 
 [conduct]: CODE_OF_CONDUCT.md
+
+[security]: SECURITY.md
 
 <!-- IDE files -->
 
