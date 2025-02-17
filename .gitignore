@@ -121,6 +121,7 @@ ehthumbs_vista.db
 *.bin
 *.exe
 *.apk
+*.app
 
 ## Common compiled files and/or binaries
 build
