@@ -243,6 +243,10 @@ runs
 # Backup files
 backup
 
+## Non-Git version control
+.history
+.snapshots
+
 ## Recycled files
 .Trash-[0-9]*
 $RECYCLE.BIN
