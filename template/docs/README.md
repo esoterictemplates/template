@@ -55,7 +55,7 @@ Project description.
 
 [changelog]: ./CHANGELOG.md
 [issues]: ./ISSUES.md
-[features]: ./FEATURES.md
+[features]: ./features/FEATURES.md
 [ideas]: ./TODO.md
 [citation]: ../CITATION.cff
 [conduct]: ./CODE_OF_CONDUCT.md
