@@ -1,25 +1,31 @@
 # Ideas
 
-## To-Do
+## Structure
 
-### Additions
+```markdown
+## Version
 
-### Changes
+### To-Do
 
-### Removals
+#### Additions
 
-## Considered
+#### Changes
 
-### Additions
+#### Removals
 
-### Changes
+### Considered
 
-### Removals
+#### Additions
+
+#### Changes
+
+#### Removals
 
 ## Won't Implement
 
-### Additions
+#### Additions
 
-### Changes
+#### Changes
 
-### Removals
+#### Removals
+```
