@@ -117,7 +117,7 @@ ehthumbs_vista.db
 *.msm
 *.msp
 
-# Executables
+# Executables & build
 *.bin
 *.exe
 *.apk
