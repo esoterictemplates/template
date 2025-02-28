@@ -134,6 +134,9 @@ output/
 target/
 bin/
 
+## Build log
+.buildlog
+
 ## Java executables, compiled files and build information
 *.jar
 *.class
