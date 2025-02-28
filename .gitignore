@@ -192,6 +192,10 @@ secrets.json
 ## IntelliJ IDEA workspace
 *.iws
 
+## Anjuta user-specific data
+.anjuta/
+.anjuta_sym_db.db
+
 ## macOS icons
 Icon?
 VolumeIcon.icns
