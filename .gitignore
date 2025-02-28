@@ -169,6 +169,13 @@ bbdist/
 ## Symbols
 *.sym
 
+## Calabash / Cucumber-related files
+rerun/
+reports/
+screenshots/
+screenshot*.png
+test-servers/
+
 ## Libraries
 ### Node.js packages
 node_modules/
@@ -179,6 +186,10 @@ libs/
 ## Gradle wrapper
 gradlew
 gradlew.bat
+
+## Ruby libraries
+.bundle/
+vendor/
 
 # User-specific files
 
