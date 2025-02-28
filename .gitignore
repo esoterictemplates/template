@@ -166,6 +166,9 @@ bbdist/
 ## Capistrano failed tasks
 *.retry
 
+## Symbols
+*.sym
+
 ## Libraries
 ### Node.js packages
 node_modules/
