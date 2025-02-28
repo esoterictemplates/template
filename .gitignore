@@ -228,6 +228,7 @@ secrets.json
 ## Dreamweaver configuration
 configs/
 dw_php_codehinting.config
+dwsync.xml
 
 ## macOS icons
 Icon?
