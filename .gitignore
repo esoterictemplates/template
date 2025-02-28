@@ -163,6 +163,9 @@ buildNumber.properties
 nbbuild/
 bbdist/
 
+## Capistrano failed tasks
+*.retry
+
 ## Libraries
 ### Node.js packages
 node_modules/
