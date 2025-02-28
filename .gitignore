@@ -225,6 +225,9 @@ secrets.json
 ## Cloud 9 workspace
 .c9/
 
+## Dreamweaver configuration
+configs/
+
 ## macOS icons
 Icon?
 VolumeIcon.icns
