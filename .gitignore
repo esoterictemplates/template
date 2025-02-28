@@ -186,6 +186,9 @@ secrets.json
 ## KDE directory preferences
 .directory
 
+## VSCode workspaces
+*.code-workspace
+
 ## IntelliJ IDEA workspace
 *.iws
 
