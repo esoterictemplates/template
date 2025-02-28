@@ -2,7 +2,7 @@
 
 <sup>Generated from [Template][template]</sup>
 
-[![Project status: unfinished][status]][root] [![Repository Size][size]][root]
+[![Project status: unfinished][status]][root] [![Repository size][size]][root]
 
 Project description.
 
