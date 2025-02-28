@@ -262,6 +262,10 @@ backup/
 .history/
 .snapshots/
 
+### Bazaar version control
+.bzr/
+.bzrignore
+
 ## Recycled files
 .Trash-[0-9]*/
 $RECYCLE.BIN/
