@@ -45,6 +45,9 @@ min/
 ### Dreamweaver comparison temporary files
 _compareTemp/
 
+### Dropbox cache
+.dropbox.cache/
+
 ## Lock files
 *.lock
 
@@ -231,6 +234,10 @@ dw_php_codehinting.config
 dwsync.xml
 _notes/
 *.mno
+
+## Dropbox user-specific files
+.dropbox
+.dropbox.attr
 
 ## macOS icons
 Icon?
