@@ -6,9 +6,9 @@
 
 Project description.
 
-## Documentation
+## Information
 
-- [Features][features]
+- [Documentation][features]
 - [Changelog][changelog]
 - [To-do][ideas]
 - [Issues][issues]
