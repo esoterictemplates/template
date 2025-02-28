@@ -131,10 +131,6 @@ output/
 target/
 bin/
 
-## NetBeans build/distributable files
-nbbuild/
-bbdist/
-
 ## Java executables, compiled files and build information
 *.jar
 *.class
@@ -162,6 +158,10 @@ buildNumber.properties
 ### Annotation Processing Tool (APT) files
 .apt_generated/
 .factorypath/
+
+### NetBeans build/distributable files
+nbbuild/
+bbdist/
 
 ## Libraries
 ### Node.js packages
