@@ -39,6 +39,9 @@ ehthumbs_vista.db
 ### macOS search index
 .Spotlight-V100/
 
+## Minified JavaScript (CodeKit)
+min/
+
 ## Lock files
 *.lock
 
