@@ -213,6 +213,9 @@ secrets.json
 .anjuta/
 .anjuta_sym_db.db
 
+## Cloud 9 workspace
+.c9/
+
 ## macOS icons
 Icon?
 VolumeIcon.icns
@@ -283,6 +286,9 @@ backup/
 ### Concurrent Versions System (CVS)
 CVS/
 .cvsignore
+
+### Cloud 9 revisions
+.c9revisions
 
 ## Recycled files
 .Trash-[0-9]*/
