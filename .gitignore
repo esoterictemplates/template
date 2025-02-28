@@ -229,6 +229,8 @@ secrets.json
 configs/
 dw_php_codehinting.config
 dwsync.xml
+_notes/
+*.mno
 
 ## macOS icons
 Icon?
