@@ -269,6 +269,10 @@ backup/
 .bzr/
 .bzrignore
 
+### Concurrent Versions System (CVS)
+CVS/
+.cvsignore
+
 ## Recycled files
 .Trash-[0-9]*/
 $RECYCLE.BIN/
