@@ -42,6 +42,9 @@ ehthumbs_vista.db
 ### Minified JavaScript (CodeKit)
 min/
 
+### Dreamweaver comparison temporary files
+_compareTemp/
+
 ## Lock files
 *.lock
 
