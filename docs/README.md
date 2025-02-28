@@ -1,6 +1,6 @@
 # Template
 
-[![Project Status: Maintained][status-badge]][root] [![Repository Size][repository-size-badge]][root]
+[![Project status: maintained][status-badge]][root] [![Repository size][repository-size-badge]][root]
 
 This repository serves as a general-purpose template for generating new projects.
 
