@@ -1,34 +1,34 @@
 # Temporary files
 *.tmp
-Temporary Items
-.TemporaryItems
+Temporary Items/
+.TemporaryItems/
 
 ## Cache
-cache
+cache/
 
 ### Gradle project cache
-.gradle
+.gradle/
 
 ### Kotlin project cache
-.kotlin
+.kotlin/
 
 ### Cached NetBeans information
-.nb-gradle
+.nb-gradle/
 
 ### Cached mappings
-mappings
+mappings/
 
 ### Cached remapped source
-remappedSrc
+remappedSrc/
 
 ### Minecraft Architectury Transformer cache
-.architectury-transformer
+.architectury-transformer/
 
 ### Spring Tool Suite (STS) cache
-.sts4-cache
+.sts4-cache/
 
 #### Spring Beans cache and metadata
-.springBeans
+.springBeans/
 
 ### Windows thumbnail cache files
 Thumbs.db
@@ -37,7 +37,7 @@ ehthumbs.db
 ehthumbs_vista.db
 
 ### macOS search index
-.Spotlight-V100
+.Spotlight-V100/
 
 ## Lock files
 *.lock
@@ -124,21 +124,21 @@ ehthumbs_vista.db
 *.app
 
 ## Common compiled files and/or binaries
-build
-dist
-out
-output
-target
-bin
+build/
+dist/
+out/
+output/
+target/
+bin/
 
 ## NetBeans build/distributable files
-nbbuild
-nbdist
+nbbuild/
+bbdist/
 
 ## Java executables, compiled files and build information
 *.jar
 *.class
-classes
+classes/
 *.ctxt
 
 ### Maven build/release information
@@ -160,15 +160,15 @@ buildNumber.properties
 .mvn/timing.properties
 
 ### Annotation Processing Tool (APT) files
-.apt_generated
-.factorypath
+.apt_generated/
+.factorypath/
 
 ## Libraries
 ### Node.js packages
-node_modules
+node_modules/
 
 ## External libraries (mainly used with Java + Gradle)
-libs
+libs/
 
 ## Gradle wrapper
 gradlew
@@ -212,11 +212,11 @@ local.properties
 ._*
 
 ## Godot 4+ specific ignores
-.godot
-android
+.godot/
+android/
 
 ## NetBeans private/user-specific information
-nbproject/private
+nbproject/private/
 
 # Logs
 *.log
@@ -234,25 +234,25 @@ hs_err_pid*
 replay_pid*
 
 ## macOS event log
-.fseventsd
+.fseventsd/
 
 # Common working directory
-work
-run
-runs
+work/
+run/
+runs/
 
 # Backup files
-backup
+backup/
 
 ## Non-Git version control
-.history
-.snapshots
+.history/
+.snapshots/
 
 ## Recycled files
-.Trash-[0-9]*
-$RECYCLE.BIN
-Network Trash Folder
-.Trashes
+.Trash-[0-9]*/
+$RECYCLE.BIN/
+Network Trash Folder/
+.Trashes/
 
 ## Text editor backup files
 *~
@@ -270,7 +270,7 @@ pom.xml.next
 *.blend1
 
 ## macOS version history
-.DocumentRevisions-V100
+.DocumentRevisions-V100/
 
 ## Microsoft backup files
 *.asd
@@ -284,4 +284,4 @@ pom.xml.next
 *.ipr
 
 ## Outdated Scala Build Tool (SBT) module information folder
-.idea_modules
+.idea_modules/
