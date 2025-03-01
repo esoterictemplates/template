@@ -166,6 +166,7 @@ zig-out/
 *.jar
 *.class
 classes/
+javadoc/
 *.ctxt
 
 ### Maven build/release information
