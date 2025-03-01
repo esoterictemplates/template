@@ -283,6 +283,9 @@ nbproject/private/
 ## Error dump files
 *.stackdump
 
+## REST API request logs
+.idea/httpRequests/
+
 ## JVM fatal error logs
 hs_err_pid*
 
