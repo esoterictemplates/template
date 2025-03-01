@@ -161,9 +161,6 @@ cmake-build-*/
 ### Zig output
 zig-out/
 
-## Build log
-.buildlog
-
 ## Java executables, compiled files and build information
 *.jar
 *.class
@@ -320,6 +317,9 @@ nbproject/private/
 *.log
 *.log.*
 logs/
+
+## Build log
+.buildlog
 
 ## Lerna logs
 lerna-debug.log*
