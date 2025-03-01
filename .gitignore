@@ -153,6 +153,9 @@ gen/
 ### CMake build folder
 cmake-build-*/
 
+### Zig output
+zig-out/
+
 ## Build log
 .buildlog
 
