@@ -48,7 +48,10 @@ _compareTemp/
 ### Dropbox cache
 .dropbox.cache/
 
-### IntelliJ IDEA cached content model metadata
+### IntelliJ IDEA cache
+.idea/caches/
+
+#### Content model metadata cache
 .idea/**/contentModel.xml
 
 ## Lock files
