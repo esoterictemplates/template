@@ -245,7 +245,14 @@ secrets.json
 .idea/**/uiDesigner.xml
 .idea/**/dbnavigator.xml
 .idea/**/mongoSettings.xml
+.idea/**/tasks.xml
+.idea/**/aws.xml
+.idea/**/gradle.xml
+.idea/**/libraries.xml
 .idea/replstate.xml
+
+fabric.properties
+crashlytics.properties
 
 ## Anjuta user-specific data
 .anjuta/
