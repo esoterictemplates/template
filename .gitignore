@@ -252,6 +252,8 @@ secrets.json
 .idea/jarRepositories.xml
 .idea/compiler.xml
 .idea/kotlinc.xml
+.idea/misc.xml
+.idea/vcs.xml
 .idea/artifacts/
 .idea/replstate.xml
 
