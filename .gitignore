@@ -232,6 +232,17 @@ secrets.json
 
 ## IntelliJ IDEA workspace
 *.iws
+.idea/**/workspace.xml
+.idea/**/usage.statistics.xml
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+.idea/**/dbnavigator.xml
+.idea/**/mongoSettings.xml
+.idea/replstate.xml
 
 ## Anjuta user-specific data
 .anjuta/
