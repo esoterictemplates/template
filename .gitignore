@@ -30,6 +30,9 @@ remappedSrc/
 #### Spring Beans cache and metadata
 .springBeans/
 
+### Zig cache
+.zig-cache/
+
 ### Windows thumbnail cache files
 Thumbs.db
 Thumbs.db:encryptable
