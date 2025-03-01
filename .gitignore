@@ -316,6 +316,9 @@ CVS/
 ### Cloud 9 revisions
 .c9revisions
 
+### IntelliJ IDEA VCS
+.idea/**/shelf/
+
 ## Recycled files
 .Trash-[0-9]*/
 $RECYCLE.BIN/
