@@ -148,6 +148,7 @@ out/
 output/
 target/
 bin/
+gen/
 
 ### CMake build folder
 cmake-build-*/
