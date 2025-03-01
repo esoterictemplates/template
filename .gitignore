@@ -248,6 +248,9 @@ secrets.json
 .idea/**/tasks.xml
 .idea/**/aws.xml
 .idea/**/gradle.xml
+.idea/jarRepositories.xml
+.idea/compiler.xml
+.idea/artifacts/
 .idea/**/libraries.xml
 .idea/replstate.xml
 
