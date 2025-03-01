@@ -197,6 +197,9 @@ screenshots/
 screenshot*.png
 test-servers/
 
+## Crashlytics build
+crashlytics-build.properties
+
 ## Libraries
 ### Node.js packages
 node_modules/
