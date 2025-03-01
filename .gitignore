@@ -140,6 +140,9 @@ output/
 target/
 bin/
 
+### CMake build folder
+cmake-build-*/
+
 ## Build log
 .buildlog
 
