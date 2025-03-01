@@ -6,7 +6,7 @@ tmp/
 temp/
 
 ## Cache
-cache/
+[Cc]ache/
 
 ### Gradle project cache
 .gradle/
