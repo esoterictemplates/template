@@ -54,6 +54,9 @@ _compareTemp/
 #### Content model metadata cache
 .idea/**/contentModel.xml
 
+#### Sonarlint cache & detected issues
+.idea/sonarlint/
+
 ## Lock files
 *.lock
 
