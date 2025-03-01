@@ -318,6 +318,23 @@ nbproject/private/
 
 # Logs
 *.log
+*.log.*
+
+## Lerna logs
+lerna-debug.log*
+
+## PNPM logs
+.pnpm-debug.log*
+
+## Yarn logs
+yarn-debug.log*
+yarn-error.log*
+
+## Abstract logs
+abstract.log*
+
+## SPFx logs
+npm-debug.log*
 
 ## Error dump files
 *.stackdump
