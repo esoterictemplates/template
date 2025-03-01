@@ -320,6 +320,9 @@ nbproject/private/
 ## Error dump files
 *.stackdump
 
+## Debug logs
+.attach_pid*
+
 ## REST API request logs
 .idea/httpRequests/
 
