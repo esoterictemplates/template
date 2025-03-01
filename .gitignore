@@ -2,6 +2,7 @@
 *.tmp
 Temporary Items/
 .TemporaryItems/
+tmp/
 
 ## Cache
 cache/
