@@ -319,6 +319,7 @@ nbproject/private/
 # Logs
 *.log
 *.log.*
+logs/
 
 ## Lerna logs
 lerna-debug.log*
