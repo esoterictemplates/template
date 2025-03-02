@@ -333,6 +333,10 @@ nbproject/private/
 [Ll]ogs/
 [Ll]og/
 Project Logs*/
+*.cmd_log
+*.xst.xrpt
+*_summary.html
+*_usage.xml
 
 ## Build log
 .buildlog
