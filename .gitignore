@@ -76,6 +76,9 @@ _compareTemp/
 ## Lock files
 *.lock
 
+### Lock files sometimes left behind
+.~lock.*
+
 ### Microsoft Office lock files
 ~$*
 
