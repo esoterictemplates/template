@@ -4,6 +4,7 @@ Temporary Items/
 .TemporaryItems/
 tmp/
 temp/
+.temp/
 
 ## Cache
 [Cc]ache/
