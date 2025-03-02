@@ -255,35 +255,6 @@ Export/
 *_ngdbuild.xrpt
 *_xst.xrpt
 
-### Glossary files (LaTeX)
-*.acn
-*.acr
-*.glg
-*.glo
-*.gls
-*.glsdefs
-*.lzo
-*.lzs
-*.slg
-*.sls
-
-### Visual Studio build files
-_ReSharper*/
-*.aps
-*.vspscc
-*_i.c
-*_p.c
-*.ncb
-*.tlb
-*.tlh
-[Tt]est[Rr]esult*
-
-### CMake build folder
-cmake-build-*/
-
-### Zig output
-zig-out/
-
 ### Compiler-generated binaries (safe to delete)
 *.dll
 *.so
@@ -296,6 +267,35 @@ zig-out/
 *.o
 *.or
 *.a
+
+## Glossary files (LaTeX)
+*.acn
+*.acr
+*.glg
+*.glo
+*.gls
+*.glsdefs
+*.lzo
+*.lzs
+*.slg
+*.sls
+
+## Visual Studio build files
+_ReSharper*/
+*.aps
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.tlb
+*.tlh
+[Tt]est[Rr]esult*
+
+## CMake build folder
+cmake-build-*/
+
+## Zig output
+zig-out/
 
 ## Java executables, compiled files and build information
 *.jar
