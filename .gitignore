@@ -499,6 +499,7 @@ npm-debug.log*
 
 ## Debug logs
 .attach_pid*
+Diagnosis/
 
 ## REST API request logs
 .idea/httpRequests/
