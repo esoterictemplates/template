@@ -155,6 +155,8 @@ target/
 bin/
 gen/
 deploy/
+bin-debug/
+bin-release/
 
 ### CMake build folder
 cmake-build-*/
