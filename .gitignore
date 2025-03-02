@@ -6,7 +6,8 @@
 Temporary Items/
 .TemporaryItems/
 tmp/
-temp/
+[Tt]emp/
+TempObjects/
 .temp/
 
 ## Cache
