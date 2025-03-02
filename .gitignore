@@ -196,6 +196,9 @@ Export/
 *.cyfit
 *.rpt
 *.svd
+Generated Files/
+[Tt]est[Rr]esult*
+[Bb]uild[Ll]og.*
 
 ### Temporary build files
 *.prj
