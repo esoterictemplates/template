@@ -292,7 +292,6 @@ _ReSharper*/
 *.ncb
 *.tlb
 *.tlh
-[Tt]est[Rr]esult*
 
 ## CMake build folder
 cmake-build-*/
