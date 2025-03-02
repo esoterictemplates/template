@@ -172,6 +172,17 @@ deploy/
 bin-debug/
 bin-release/
 Project Outputs*/
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+msbuild.err
+msbuild.wrn
 
 ### Temporary build files
 *.prj
