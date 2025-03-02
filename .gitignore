@@ -361,7 +361,9 @@ node_modules/
 
 ## External libraries
 libs/
+lib/
 .libs/
+.lib/
 
 ## Gradle wrapper
 gradlew
