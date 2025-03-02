@@ -332,6 +332,7 @@ nbproject/private/
 *.log.*
 [Ll]ogs/
 [Ll]og/
+Project Logs*/
 
 ## Build log
 .buildlog
