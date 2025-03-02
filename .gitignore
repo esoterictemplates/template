@@ -166,6 +166,7 @@ gen/
 deploy/
 bin-debug/
 bin-release/
+Project Outputs*/
 
 ### CMake build folder
 cmake-build-*/
