@@ -544,6 +544,13 @@ CVS/
 ### IntelliJ IDEA VCS
 .idea/**/shelf/
 
+### Visual Studio VCS
+#### Local History for Visual Studio
+.localhistory/
+
+#### Visual Studio History (VSHistory) files
+.vshistory/
+
 ## Recycled files
 .Trash-[0-9]*/
 $RECYCLE.BIN/
