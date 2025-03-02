@@ -168,6 +168,25 @@ bin-debug/
 bin-release/
 Project Outputs*/
 
+### Temporary build files
+*.prj
+*.ptwx
+*.unroutes
+*.msk
+
+### Synthesis and implementation
+*.bit
+*.ngc
+*.ncd
+*.ngr
+*.pad
+*.par
+
+### Mappings
+*_map.map
+*_map.ngm
+*_map.xrpt
+
 ### CMake build folder
 cmake-build-*/
 
