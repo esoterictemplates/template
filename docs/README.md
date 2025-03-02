@@ -26,7 +26,7 @@ This repository serves as a general-purpose template for generating new projects
 - Follow the [checklist](#checklist).
 - If you are using version control (recommended), create the first revision.
 
-### Checklist
+#### Checklist
 
 The following serves as a checklist - a list of tasks to complete when creating a new project using this template.
 
