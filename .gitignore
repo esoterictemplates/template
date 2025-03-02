@@ -210,6 +210,11 @@ Project Outputs*/
 *_map.map
 *_map.ngm
 *_map.xrpt
+*_map.mrp
+*_summary.xml
+*_par.xrpt
+*_ngdbuild.xrpt
+*_xst.xrpt
 
 ### CMake build folder
 cmake-build-*/
