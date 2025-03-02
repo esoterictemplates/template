@@ -173,6 +173,11 @@ Project Outputs*/
 *.ptwx
 *.unroutes
 *.msk
+*.ll
+*.lso
+*.msd
+*.pcf
+*.ut
 
 ### Synthesis and implementation
 *.bit
@@ -181,6 +186,23 @@ Project Outputs*/
 *.ngr
 *.pad
 *.par
+*.bgn
+*.bld
+*.ngd
+*.xst
+
+### Design rule checks and reports
+*.drc
+*.syr
+*.twr
+*.twx
+
+### Routing and bitstream files
+*.rbb
+*.rbd
+*_bitgen.xwbt
+*_pad.csv
+*_pad.txt
 
 ### Mappings
 *_map.map
