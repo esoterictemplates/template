@@ -275,8 +275,9 @@ crashlytics-build.properties
 ### Node.js packages
 node_modules/
 
-## External libraries (mainly used with Java + Gradle)
+## External libraries
 libs/
+.libs/
 
 ## Gradle wrapper
 gradlew
