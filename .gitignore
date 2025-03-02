@@ -65,6 +65,9 @@ _compareTemp/
 ### Ensime cache
 .ensime_cache/
 
+#### Ensime indexing
+.ensime_lucene/
+
 ## Lock files
 *.lock
 
