@@ -242,6 +242,18 @@ msbuild.wrn
 *_ngdbuild.xrpt
 *_xst.xrpt
 
+### Glossary files (LaTeX)
+*.acn
+*.acr
+*.glg
+*.glo
+*.gls
+*.glsdefs
+*.lzo
+*.lzs
+*.slg
+*.sls
+
 ### CMake build folder
 cmake-build-*/
 
