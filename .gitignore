@@ -181,6 +181,18 @@ Project Outputs*/
 *.pcf
 *.ut
 
+### Object files
+*.axf
+*.b[0-2][0-9]
+*.b3[0-1]
+*.build_log.htm
+*.crf
+*.htm
+*.iex
+*.lnp
+*.obj
+*.sbr
+
 ### Synthesis and implementation
 *.bit
 *.ngc
