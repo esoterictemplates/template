@@ -284,6 +284,19 @@ cmake-build-*/
 ### Zig output
 zig-out/
 
+### Compiler-generated binaries (safe to delete)
+*.dll
+*.so
+*.dylib
+*.lrs
+*.res
+*.compiled
+*.dbg
+*.ppu
+*.o
+*.or
+*.a
+
 ## Java executables, compiled files and build information
 *.jar
 *.class
