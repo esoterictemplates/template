@@ -179,6 +179,9 @@ Project Outputs*/
 [Dd]ebugPublic/
 [Rr]elease*/
 x64/
+x86/
+arm/
+arm-p/
 bld/
 [Bb]in/
 [Oo]bj/
@@ -199,6 +202,7 @@ Export/
 Generated Files/
 [Tt]est[Rr]esult*
 [Bb]uild[Ll]og.*
+translations/*.qm
 
 ### Temporary build files
 *.prj
