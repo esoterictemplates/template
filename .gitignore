@@ -62,6 +62,9 @@ _compareTemp/
 #### Sonarlint cache & detected issues
 .idea/sonarlint/
 
+### Ensime cache
+.ensime_cache/
+
 ## Lock files
 *.lock
 
