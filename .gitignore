@@ -65,6 +65,9 @@ _compareTemp/
 ### Ensime cache
 .ensime_cache/
 
+#### Ensime project metadata
+.ensime
+
 #### Ensime indexing
 .ensime_lucene/
 
