@@ -175,10 +175,9 @@ deploy/
 bin-debug/
 bin-release/
 Project Outputs*/
-[Dd]ebug/
+[Dd]ebug*/
 [Dd]ebugPublic/
-[Rr]elease/
-[Rr]eleases/
+[Rr]elease*/
 x64/
 bld/
 [Bb]in/
@@ -267,6 +266,17 @@ Export/
 *.lzs
 *.slg
 *.sls
+
+### Visual Studio build files
+_ReSharper*/
+*.aps
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.tlb
+*.tlh
+[Tt]est[Rr]esult*
 
 ### CMake build folder
 cmake-build-*/
