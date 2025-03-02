@@ -204,6 +204,7 @@ Generated Files/
 [Tt]est[Rr]esult*
 [Bb]uild[Ll]og.*
 translations/*.qm
+Binaries/
 
 ### Temporary build files
 *.prj
