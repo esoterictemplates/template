@@ -445,6 +445,9 @@ _notes/
 .dropbox
 .dropbox.attr
 
+## Kicad user-specific information
+*.kicad_prl
+
 ## macOS icons
 Icon?
 VolumeIcon.icns
