@@ -536,10 +536,13 @@ runs/
 
 # Backup files
 backup/
+*-backups/
 *.bak
 *.gho
 *.ori
 *.orig
+*.000
+*.bck
 
 ## Non-Git version control
 .history/
