@@ -165,7 +165,8 @@ _compareTemp/
 *.app
 
 ## Common compiled files and/or binaries
-build/
+[Bb]uild/
+[Bb]uilds/
 dist/
 out/
 output/
