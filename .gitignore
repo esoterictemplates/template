@@ -380,6 +380,7 @@ crashlytics-build.properties
 node_modules/
 
 ## External libraries
+[Ll]ibrary/
 libs/
 lib/
 .libs/
