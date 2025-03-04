@@ -310,6 +310,13 @@ a.out
 *.slg
 *.sls
 
+## Book build output
+_book
+
+## eBook build output
+*.epub
+*.mobi
+
 ## Visual Studio build files
 _ReSharper*/
 *.aps
