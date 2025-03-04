@@ -388,10 +388,13 @@ node_modules/
 
 ## External libraries
 [Ll]ibrary/
+_Libraries/
 libs/
 lib/
 .libs/
 .lib/
+[Ll]ib
+[Ll]ib64
 
 ## Gradle wrapper
 gradlew
