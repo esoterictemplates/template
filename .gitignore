@@ -575,6 +575,15 @@ Network Trash Folder/
 ## Text editor backup files
 *~
 
+## KiCad PCB/schematic backups
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.sch-bak
+_autosave-*
+*-save.pro
+*-save.kicad_pcb
+\#auto_saved_files#
+
 ## Maven release pom.xml backup
 pom.xml.releaseBackup
 pom.xml.versionsBackup
