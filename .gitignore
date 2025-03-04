@@ -586,6 +586,9 @@ backup/
 CVS/
 .cvsignore
 
+### Delphi
+__history/
+
 ### Cloud 9 revisions
 .c9revisions
 
