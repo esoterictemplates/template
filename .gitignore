@@ -449,7 +449,7 @@ _notes/
 .dropbox
 .dropbox.attr
 
-## Kicad user-specific information
+## KiCad user-specific information
 *.kicad_prl
 
 ## macOS icons
