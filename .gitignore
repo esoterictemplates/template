@@ -81,6 +81,9 @@ _compareTemp/
 #### Ensime indexing
 .ensime_lucene/
 
+#### KiCad cache
+fp-info-cache/
+
 ## Lock files
 *.lock
 
