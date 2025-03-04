@@ -611,6 +611,9 @@ Network Trash Folder/
 ## Text editor backup files
 *~
 
+## Delphi history
+__recovery/
+
 ## KiCad PCB/schematic backups
 *.kicad_pcb-bak
 *.kicad_sch-bak
