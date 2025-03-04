@@ -551,6 +551,14 @@ backup/
 .history/
 .snapshots/
 
+### Mercurial
+.hg/
+.hgignore
+.hgsigs
+.hgsub
+.hgsubstate
+.hgtags
+
 ### Bazaar version control
 .bzr/
 .bzrignore
