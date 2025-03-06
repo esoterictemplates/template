@@ -37,7 +37,9 @@ The following serves as a checklist - a list of tasks to complete when creating 
 
 ## License
 
-[Template][root] &copy; 2024-2025 [Esoteric Enderman][website], licensed under the [AGPL 3.0][license] only.
+&copy; 2024-2025 [Esoteric Enderman][website]
+
+[Template][root] is licensed under the [AGPL 3.0][license] only.
 
 ## Topics
 
