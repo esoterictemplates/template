@@ -35,7 +35,7 @@ Project description.
 
 &copy; \<year> [\<name of author>][author-website]
 
-[Repository Name][root] is licensed under the [AGPL 3.0][license] only.
+[\<repository name>][root] is licensed under the [AGPL 3.0][license] only.
 
 <!-- Link aliases -->
 
