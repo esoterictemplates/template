@@ -332,6 +332,9 @@ CodeCoverage/
 *.slg
 *.sls
 
+## Latexrun
+latex.out/
+
 ## Book build output
 _book
 
