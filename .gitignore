@@ -102,6 +102,7 @@ fp-info-cache/
 *.zip
 *.tar
 *.tar.gz
+*.tar.7z
 *.tgz
 *.gz
 *.7z
