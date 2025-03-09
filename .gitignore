@@ -305,6 +305,12 @@ CodeCoverage/
 # MSTest test Results
 [Tt]est[Rr]esult*/
 
+## BizTalk build output
+*.btp.cs
+*.btm.cs
+*.odx.cs
+*.xsd.cs
+
 ## Glossary files (LaTeX)
 *.acn
 *.acr
