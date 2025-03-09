@@ -671,6 +671,14 @@ Network Trash Folder/
 ## Text editor backup files
 *~
 
+## Eagle backup files
+*.s#?
+*.b#?
+*.l#?
+*.b$?
+*.s$?
+*.l$?
+
 ## Delphi history
 __recovery/
 
