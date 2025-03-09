@@ -628,6 +628,10 @@ __history/
 #### Visual Studio History (VSHistory) files
 .vshistory/
 
+### Vhistory
+*.hst
+*.ver
+
 ## Recycled files
 .Trash-[0-9]*/
 $RECYCLE.BIN/
