@@ -259,6 +259,14 @@ Binaries/
 *.sx32fsl
 *.wx64fsl
 *.wx32fsl
+Win32/
+Win64/
+OSX64/
+OSXARM64/
+Android/
+Android64/
+iOSDevice64/
+Linux64/
 
 ### Temporary build files
 *.prj
