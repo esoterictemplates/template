@@ -267,6 +267,12 @@ Android/
 Android64/
 iOSDevice64/
 Linux64/
+*.slo
+*.lo
+*.gch
+*.pch
+*.lai
+*.la
 
 ### Temporary build files
 *.prj
