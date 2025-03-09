@@ -563,6 +563,9 @@ Project Logs*/
 *_summary.html
 *_usage.xml
 
+## Error log
+error_log
+
 ## Build log
 .buildlog/
 .gwt/
