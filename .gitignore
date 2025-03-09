@@ -305,6 +305,14 @@ CodeCoverage/
 # MSTest test Results
 [Tt]est[Rr]esult*/
 
+## Files built by Visual Studio
+*_h.h
+*.iobj
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+
 ## BizTalk build output
 *.btp.cs
 *.btm.cs
