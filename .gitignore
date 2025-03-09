@@ -87,6 +87,7 @@ fp-info-cache/
 ## Lock files
 *.lock
 ~*.lck
+*.lk
 
 ### Lock files sometimes left behind
 .~lock.*
