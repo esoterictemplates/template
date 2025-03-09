@@ -529,7 +529,7 @@ Project Logs*/
 *_usage.xml
 
 ## Build log
-.buildlog
+.buildlog/
 .gwt/
 
 ## Lerna logs
