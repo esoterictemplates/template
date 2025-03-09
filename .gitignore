@@ -11,6 +11,9 @@ TEMP/
 TempObjects/
 .temp/
 
+## Lisp temporary files
+*.lisp-temp
+
 ## Cache
 [Cc]ache/
 *.[Cc]ache
@@ -240,6 +243,22 @@ Binaries/
 *.eledsec[1-9][0-9]R
 *.eledsec[1-9][0-9][0-9]
 *.eledsec[1-9][0-9][0-9]R
+*.FASL
+*.fasl
+*.dfsl
+*.pfsl
+*.d64fsl
+*.p64fsl
+*.lx64fsl
+*.lx32fsl
+*.dx64fsl
+*.dx32fsl
+*.fx64fsl
+*.fx32fsl
+*.sx64fsl
+*.sx32fsl
+*.wx64fsl
+*.wx32fsl
 
 ### Temporary build files
 *.prj
