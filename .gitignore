@@ -667,6 +667,11 @@ ext/run-tests.php
 ext/.deps
 ext/libtool
 
+# Links
+
+## Python VENV symlink
+.Python
+
 # Outdated
 
 ## Outdated Intellij IDEA project format
