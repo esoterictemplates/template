@@ -251,6 +251,8 @@ Binaries/
 *.msd
 *.pcf
 *.ut
+*.stx
+*_envsettings.html
 
 ### Object files
 *.axf
