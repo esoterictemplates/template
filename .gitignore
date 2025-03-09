@@ -320,6 +320,13 @@ CodeCoverage/
 *.odx.cs
 *.xsd.cs
 
+## Stata dataset and output files
+*.dta
+*.gph
+*.smcl
+*.stpr
+*.stsem
+
 ## Glossary files (LaTeX)
 *.acn
 *.acr
