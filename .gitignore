@@ -298,6 +298,12 @@ a.out
 *.so
 *.so.*
 
+### Build test files
+CodeCoverage/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+
 ## Glossary files (LaTeX)
 *.acn
 *.acr
