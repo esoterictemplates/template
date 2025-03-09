@@ -365,6 +365,10 @@ CodeCoverage/
 #### MSTest test Results
 [Tt]est[Rr]esult*/
 
+## Fortran module files
+*.mod
+*.smod
+
 ## Files built by Visual Studio
 *_h.h
 *.iobj
