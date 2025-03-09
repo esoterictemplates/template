@@ -530,6 +530,7 @@ Project Logs*/
 
 ## Build log
 .buildlog
+.gwt/
 
 ## Lerna logs
 lerna-debug.log*
