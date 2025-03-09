@@ -362,7 +362,7 @@ a.out
 ### Build test files
 CodeCoverage/
 
-# MSTest test Results
+#### MSTest test Results
 [Tt]est[Rr]esult*/
 
 ## Files built by Visual Studio
