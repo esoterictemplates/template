@@ -181,6 +181,9 @@ fp-info-cache/
 *.msm
 *.msp
 
+## Geogebra exports (ZIP-based)
+*.ggb
+
 # Executables & build
 *.bin
 *.exe
