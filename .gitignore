@@ -133,6 +133,7 @@ fp-info-cache/
 *.xar
 *.zst
 *.tzst
+*.asar
 
 ## Package management formats
 *.dmg
