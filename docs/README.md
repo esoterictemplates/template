@@ -43,7 +43,7 @@ The following serves as a checklist - a list of tasks to complete when creating 
 
 ## Topics
 
-<sup>template templates template-project template-repository template-generic-repo</sup>
+<sup>[template](https://github.com/topics/template), [templates](https://github.com/topics/templates), [template-project](https://github.com/topics/template-project), [template-repository](https://github.com/topics/template-repository), [template-generic-repo](https://github.com/topics/template-generic-repo)</sup>
 
 <!-- Link aliases -->
 
